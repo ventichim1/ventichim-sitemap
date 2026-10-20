@@ -1,0 +1,57 @@
+name: Sitemap bouwen
+
+# Elke nacht de hreflang-sitemap opnieuw bouwen uit de Vendisto-sitemap en publiceren op
+# https://sitemap.ventichim.be (GitHub Pages). Met de hand starten kan via "Run workflow".
+on:
+  schedule:
+    - cron: "15 3 * * *"
+  workflow_dispatch:
+    inputs:
+      alles:
+        description: "Status van alle adressen opnieuw nakijken"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sitemap
+  cancel-in-progress: false
+
+jobs:
+  bouwen:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.publiceer.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sitemap bouwen
+        run: python bouw_sitemap.py ${{ inputs.alles && '--alles' || '' }}
+
+      # status.json terugzetten houdt de statuscontrole klein (alleen nieuwe of 7 dagen oude adressen)
+      # en is meteen activiteit in de repo, zodat GitHub de nachtelijke run niet stillegt.
+      - name: Status bewaren
+        run: |
+          git config user.name "ventichim-sitemap"
+          git config user.email "actions@users.noreply.github.com"
+          git add status.json
+          git diff --cached --quiet || git commit -m "Status bijgewerkt $(date -u +%F)"
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: publiceer
+        uses: actions/deploy-pages@v4
