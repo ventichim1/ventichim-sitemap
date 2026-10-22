@@ -26,7 +26,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.publiceer.outputs.page_url }}
+      url: ${{ steps.publiceer.outputs.page_url || steps.publiceer2.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -39,13 +39,20 @@ jobs:
 
       # status.json terugzetten houdt de statuscontrole klein (alleen nieuwe of 7 dagen oude adressen)
       # en is meteen activiteit in de repo, zodat GitHub de nachtelijke run niet stillegt.
+      # Eerst naar de nieuwste main: bij "Re-run jobs" staat de checkout op een oudere commit en zou
+      # de push anders botsen met de statuscommit van de eerste poging. site\ staat niet in de repo
+      # en blijft dus staan.
       - name: Status bewaren
         run: |
           git config user.name "ventichim-sitemap"
           git config user.email "actions@users.noreply.github.com"
+          cp status.json "$RUNNER_TEMP/status.json"
+          git fetch --quiet origin main
+          git reset --quiet --hard FETCH_HEAD
+          cp "$RUNNER_TEMP/status.json" status.json
           git add status.json
           git diff --cached --quiet || git commit -m "Status bijgewerkt $(date -u +%F)"
-          git push
+          git push origin HEAD:main
 
       - uses: actions/configure-pages@v5
 
@@ -53,5 +60,17 @@ jobs:
         with:
           path: site
 
+      # Soms vindt deploy-pages het net klaargezette pakket nog niet ("No artifacts named github-pages",
+      # 22-10-2026, hapering bij GitHub). Dan even wachten en één keer opnieuw; pas als ook dat mislukt,
+      # mislukt de run.
       - id: publiceer
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: Even wachten voor tweede poging
+        if: steps.publiceer.outcome == 'failure'
+        run: sleep 90
+
+      - id: publiceer2
+        if: steps.publiceer.outcome == 'failure'
         uses: actions/deploy-pages@v4
