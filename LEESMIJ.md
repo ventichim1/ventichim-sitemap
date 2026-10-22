@@ -39,15 +39,34 @@ dezelfde Search Console (cross-site submission). Sinds 19-10-2026 staan sc-domai
 sc-domain:ventichim.nl op Stevens Google-account. Vendisto zelf kan geen bestanden op www.ventichim.be
 zetten (afbeeldingen staan op een CDN-domein), robots.txt en de Vendisto-sitemap kunnen we niet aanpassen.
 
-## Nog te doen (vraagt Stevens uitdrukkelijke toestemming)
+## Online sinds 20-10-2026
 
-1. Steven meldt zich zelf aan bij GitHub (account `ventichim1`) in Chrome.
-2. Openbare repo `ventichim-sitemap` met dit script en een nachtelijke GitHub Actions-workflow die de
-   sitemap bouwt, `status.json` terugzet (houdt de planning actief) en publiceert via GitHub Pages.
-3. Bij Combell (DNS ventichim.be): CNAME `sitemap` -> `ventichim1.github.io`; in GitHub Pages het eigen
-   domein sitemap.ventichim.be instellen en https afdwingen.
-4. In Search Console (property ventichim.be): `https://sitemap.ventichim.be/sitemap_index.xml` indienen;
-   na een paar dagen bij Internationale targeting / Sitemaps nakijken of Google ze leest.
+- Openbare repo **github.com/ventichim1/ventichim-sitemap** (dit script, `status.json`, workflow
+  `.github/workflows/sitemap.yml`). De workflow draait elke nacht om 03:15 UTC (en via "Run workflow"),
+  bouwt de sitemap, zet `status.json` terug (houdt de planning actief) en publiceert via GitHub Pages.
+- Combell, DNS ventichim.be: CNAME `sitemap` -> `ventichim1.github.io`. GitHub Pages: eigen domein
+  sitemap.ventichim.be, https afgedwongen (Let's Encrypt via GitHub).
+- Search Console (sc-domain:ventichim.be, Stevens Google-account, dat ook sc-domain:ventichim.nl heeft):
+  `https://sitemap.ventichim.be/sitemap_index.xml` ingediend op 20-10-2026, status "Succesvol".
+- Wijzigen: script aanpassen, in de repo zetten (Add file > Upload files), daarna "Run workflow".
+
+## Mail "Run failed: Sitemap bouwen"
+
+GitHub mailt als de nachtelijke run mislukt. De sitemap van de vorige dag blijft dan gewoon online staan;
+er gaat niets verloren en de volgende nacht probeert hij het opnieuw.
+
+- 22-10-2026: de laatste stap (publiceren) vond het pakket "github-pages" niet, één seconde nadat het
+  klaargezet was. Hapering bij GitHub, niet in het script. Sindsdien wacht de workflow dan 90 seconden
+  en probeert hij het één keer opnieuw; pas als ook dat mislukt, komt er een mail.
+- Zelf herstellen: Actions > Sitemap bouwen > **Run workflow** (main, vinkje "alles" uit). "Re-run jobs"
+  werkt sinds 22-10-2026 ook: de stap "Status bewaren" zet status.json nu bovenop de nieuwste main.
+- Foutmelding lezen zonder in te loggen (repo is openbaar):
+  `https://api.github.com/repos/ventichim1/ventichim-sitemap/actions/runs` (laatste runs),
+  `.../actions/runs/<run-id>/jobs` (welke stap) en `.../check-runs/<job-id>/annotations` (de melding).
+
+De oude Vendisto-sitemap `https://www.ventichim.be/sitemap.xml` staat ook in Search Console (sinds
+13-08-2025, door iemand anders ingediend) met 6.184 fouten "URL niet toegestaan": alle adressen staan op
+www.ventichim.nl. Die heeft dus nooit gewerkt.
 
 De sitemap bevat alleen adressen die nu al openbaar in de Vendisto-sitemap staan; er zit niets geheims in.
 
