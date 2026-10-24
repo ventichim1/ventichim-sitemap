@@ -1267,30 +1267,6 @@
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
 },
-"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pp-kunststof/zwarte-uv-bestendige-pz-reeks/": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pellet-design/": {
-"code": 302,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/inox-rvs/": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/ferlux-dikwandige-kachelbuizen-2mm/": {
-"code": 302,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pp-kunststof/witte-pps-pw-reeks/": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pp-kunststof/": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
 "/nl/rookgasafvoer/collectieve-renovatie/pz-c14-star/pz-c14-star/": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
@@ -1333,6 +1309,30 @@
 },
 "/nl/rookgasafvoer/collectieve-renovatie/": {
 "code": 302,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pp-kunststof/zwarte-uv-bestendige-pz-reeks/": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pellet-design/": {
+"code": 302,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/inox-rvs/": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/ferlux-dikwandige-kachelbuizen-2mm/": {
+"code": 302,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pp-kunststof/witte-pps-pw-reeks/": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pp-kunststof/": {
+"code": 200,
 "op": "2026-10-19T18:01:57+00:00"
 },
 "/nl/schoorsteenveegmaterialen/schouwborstels/rechthoekig/rechthoekig/schoorsteenborstel-rechthoek-uit-verenstaal-met-ringkoppeling": {
@@ -5511,18 +5511,6 @@
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
 },
-"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pp-kunststof/witte-pps-pw-reeks/schachtafdekplaat-met-luchtinlaat-voor-witte-pps-liner-pw-reeks-ø60-tot-ø250": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pp-kunststof/zwarte-uv-bestendige-pz-reeks/schachtafdekplaat-met-luchtinlaat-voor-zwarte-pps-liner-pz-reeks-ø60-tot-ø250": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/inox-rvs/inox-enkelwandig-ie-reeks/schachtafdekplaat-met-luchtinlaat-inox-schoorsteenopstand-ø60-tot-ø300": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
 "/nl/neutralisatieboxen/navulling-calciet-en-parels/navulling-calciet-en-parels/navulling-calciet-en-parels/navulling-calciet-voor-neutralisatiebox-5-tot-25-kg": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
@@ -5607,22 +5595,6 @@
 "code": 200,
 "op": "2026-10-19T18:01:57+00:00"
 },
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/pps-muurplaat-met-korte-steunbocht-87": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/dichting-voor-flexibel": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/t-uitmonding-voor-montage-onder-deksteen": {
-"code": 302,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/kleine-uv-bestendige-schoorsteenkap": {
-"code": 302,
-"op": "2026-10-19T18:01:57+00:00"
-},
 "/nl/rookgasafvoer/collectieve-renovatie/pz-c14-star/pz-c14-star/steunvoet-voor-mof-met-condensafvoer-pz-c14-star": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
@@ -5666,14 +5638,6 @@
 "/nl/rookgasafvoer/cascade-systemen/concentrische-rookgascascade-c93x/concentrische-rookgascascade-c93x/eindbuis-pp-zwart-zonder-mof-0-5-m-voor-de-schacht": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/uv-bestendige-afstandhouder": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/verlengset-2-x-0-25m-buis-voor-t-uitmonding-cx-ø80": {
-"code": 302,
-"op": "2026-10-19T18:01:57+00:00"
 },
 "/nl/rookgasafvoer/cascade-systemen/concentrische-rookgascascade-c93x/concentrische-rookgascascade-c93x/concentrische-buis-25-cm-pp-rvs-wit-cascade-c93x": {
 "code": 200,
@@ -5735,14 +5699,6 @@
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
 },
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/steunbocht-87-met-verloop-galva-steunijzer": {
-"code": 302,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/kit-uv-bestendige-flexibel-rol-50-meter-5x-schouwkit-grote-kap-incl-montagekruis": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
 "/nl/rookgasafvoer/cascade-systemen/concentrische-rookgascascade-c93x/concentrische-rookgascascade-c93x/ketelaansluit-t-met-meetopening-concentrisch-c93x": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
@@ -5759,50 +5715,6 @@
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
 },
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/steunbocht-87-galva-steunijzer-voor-flexibel": {
-"code": 302,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/driedubbel-schoorsteenkap": {
-"code": 302,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/concentrische-rookgasafvoer/concentrisch-systeem-voor-binnenplaatsing/cf-reeks-alu-pp-/buis-2-meter": {
-"code": 404,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/stofzuigers-en-toebehoren/onderdelen-accessoires/kits/kits/kit-38mm": {
-"code": 302,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/dubbelwandige-rookgasafvoer/inox-rvs/inox-dubbelwandige-id-reeks/pasbuis-verstelbare-lengte": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/inox-rvs/inox-enkelwandig-ie-reeks/centreerplaten-paar": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/ketelonderhoud/ketelborstels/schroefborstels/schroefborstels/rechthoekige-schroefborstel-met-stalen-haren": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/trekbeveiliging": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/dakdoorvoer-met-aansluiting": {
-"code": 302,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/pps-muurplaat-concentrische-aansluiting-met-vloei-steunbocht-70-naar-uv-bestendige-flexibel": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/verstelbare-steunbocht-87": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
 "/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/kit-uv-bestendige-flexibel-rol-50-meter-5x-schouwkit-kleine-kap": {
 "code": 302,
 "op": "2026-10-19T18:01:57+00:00"
@@ -5815,8 +5727,36 @@
 "code": 200,
 "op": "2026-10-19T18:01:57+00:00"
 },
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/uv-bestendige-aansluitmof-met-flens-boven": {
+"/nl/rookgasafvoer/collectieve-renovatie/pz-c14-star/pz-c14-star/t-stuk-c14-87-1-m-met-afschroefbare-aansluitbuis-pz-c14-star": {
 "code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pp-kunststof/witte-pps-pw-reeks/schachtafdekplaat-met-luchtinlaat-voor-witte-pps-liner-pw-reeks-ø60-tot-ø250": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/inox-rvs/inox-enkelwandig-ie-reeks/schachtafdekplaat-met-luchtinlaat-inox-schoorsteenopstand-ø60-tot-ø300": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pp-kunststof/zwarte-uv-bestendige-pz-reeks/schachtafdekplaat-met-luchtinlaat-voor-zwarte-pps-liner-pz-reeks-ø60-tot-ø250": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/kleine-uv-bestendige-schoorsteenkap": {
+"code": 302,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/verlengset-2-x-0-25m-buis-voor-t-uitmonding-cx-ø80": {
+"code": 302,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/verstelbare-steunbocht-87": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/t-uitmonding-voor-montage-onder-deksteen": {
+"code": 302,
 "op": "2026-10-19T18:01:57+00:00"
 },
 "/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/grespotkap-met-flex-koppeling-voor-ø80-en-ø60": {
@@ -5827,9 +5767,69 @@
 "code": 200,
 "op": "2026-10-19T18:01:57+00:00"
 },
-"/nl/rookgasafvoer/collectieve-renovatie/pz-c14-star/pz-c14-star/t-stuk-c14-87-1-m-met-afschroefbare-aansluitbuis-pz-c14-star": {
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/steunbocht-87-galva-steunijzer-voor-flexibel": {
+"code": 302,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/driedubbel-schoorsteenkap": {
+"code": 302,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/uv-bestendige-afstandhouder": {
 "code": 200,
-"op": "2026-10-22T08:41:27+00:00"
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/pps-muurplaat-met-korte-steunbocht-87": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/trekbeveiliging": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/dakdoorvoer-met-aansluiting": {
+"code": 302,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/dichting-voor-flexibel": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/pps-muurplaat-concentrische-aansluiting-met-vloei-steunbocht-70-naar-uv-bestendige-flexibel": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/steunbocht-87-met-verloop-galva-steunijzer": {
+"code": 302,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/kit-uv-bestendige-flexibel-rol-50-meter-5x-schouwkit-grote-kap-incl-montagekruis": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/uv-bestendige-aansluitmof-met-flens-boven": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/dubbelwandige-rookgasafvoer/inox-rvs/inox-dubbelwandige-id-reeks/pasbuis-verstelbare-lengte": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/inox-rvs/inox-enkelwandig-ie-reeks/centreerplaten-paar": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/concentrische-rookgasafvoer/concentrisch-systeem-voor-binnenplaatsing/cf-reeks-alu-pp-/buis-2-meter": {
+"code": 404,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/ketelonderhoud/ketelborstels/schroefborstels/schroefborstels/rechthoekige-schroefborstel-met-stalen-haren": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/stofzuigers-en-toebehoren/onderdelen-accessoires/kits/kits/kit-38mm": {
+"code": 302,
+"op": "2026-10-19T18:01:57+00:00"
 },
 "/nl/schoorsteenborstel-rechthoek-uit-verenstaal-met-ringkoppeling-400x200-1675": {
 "code": 200,
@@ -24759,51 +24759,7 @@
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
 },
-"/nl/schachtafdekplaat-met-luchtinlaat-ø80-pw-reeks-pwsal080": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø125-pw-reeks-pwsal125": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø200-pz-reeks-pzsal200": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
 "/nl/neutralisatiebox-condensaat-tot-1500-kw-25-kg-calciet-neut2252": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø160-ie-reeks-iesal160": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø80-ie-reeks-iesal080": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø250-pz-reeks-pzsal250": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø60-pw-reeks-pwsal060": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø200-pw-reeks-pwsal200": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø110-ie-reeks-iesal110": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø130-ie-reeks-iesal130": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø60-ie-reeks-iesal060": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
 },
@@ -24811,35 +24767,11 @@
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
 },
-"/nl/schachtafdekplaat-met-luchtinlaat-ø150-ie-reeks-iesal150": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø250-pw-reeks-pwsal250": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø125-ie-reeks-iesal125": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø125-pz-reeks-pzsal125": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
 "/nl/navulling-parels-voor-neutralisator-35-kw-5-zakjes-neut727r": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
 },
-"/nl/schachtafdekplaat-met-luchtinlaat-ø100-pz-reeks-pzsal100": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
 "/nl/navulling-calciet-10-kg-voor-neutralisatiebox-350-kw-neut1301": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø200-ie-reeks-iesal200": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
 },
@@ -24855,22 +24787,6 @@
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
 },
-"/nl/schachtafdekplaat-met-luchtinlaat-ø300-ie-reeks-iesal300": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø180-ie-reeks-iesal180": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø60-pz-reeks-pzsal060": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø110-pw-reeks-pwsal110": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
 "/nl/navulling-calciet-25-kg-voor-neutralisatiebox-1500-kw-neut2254": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
@@ -24880,38 +24796,6 @@
 "op": "2026-10-22T08:41:27+00:00"
 },
 "/nl/inox-dubbellaagse-flexibel-ø300-per-meter-fxd30": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø110-pz-reeks-pzsal110": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø170-ie-reeks-iesal170": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø160-pz-reeks-pzsal160": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø250-ie-reeks-iesal250": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø160-pw-reeks-pwsal160": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø100-pw-reeks-pwsal100": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø100-ie-reeks-iesal100": {
-"code": 200,
-"op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/schachtafdekplaat-met-luchtinlaat-ø80-pz-reeks-pzsal080": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
 },
@@ -25291,34 +25175,6 @@
 "code": 200,
 "op": "2026-10-19T18:01:57+00:00"
 },
-"/nl/pps-muurplaat-met-korte-steunbocht-87-ø80-cxzbbsk08": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/pps-muurplaat-met-korte-steunbocht-87-ø60-cxzbbsk06": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/dichting-voor-flexibel-ø100-cxseal10": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/dichting-voor-flexibel-ø80-cxseal08": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/dichting-voor-flexibel-ø60-cxseal06": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/cx-ø-80-t-uitmonding-voor-montage-onder-deksteen-cxuit08": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/schoorsteenkap-ø80-cx-reeks-voor-zwarte-flexibel-cxkg08": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
 "/nl/steunvoet-c14-ø200-voor-mof-met-condensafvoer-pzc14sv20": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
@@ -25494,22 +25350,6 @@
 "/nl/eindbuis-pp-zwart-zonder-mof-0-5-m-ø60-concaseb60": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
-},
-"/nl/zwart-uv-bestendige-afstandhouder-ø60-cxah06": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/zwart-uv-bestendige-afstandhouder-ø100-cxah10": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/zwart-uv-bestendige-afstandhouder-ø80-cxah08": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/verlengset-2-x-0-25m-buis-voor-t-uitmonding-cx-ø80-cxvt08": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
 },
 "/nl/concentrische-cascade-buis-25-cm-ø80-125-pp-rvs-wit-concas2580125": {
 "code": 200,
@@ -25935,18 +25775,6 @@
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
 },
-"/nl/steunbocht-87-ø80-met-verloop-naar-ø60-galva-steunijzer-cxbbsv0806": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/kit-uv-bestendige-flexibel-rol-ø80-50-meter-5x-schouwkit-cxkitz5008gr": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/kit-uv-bestendige-flexibel-rol-ø60-50-meter-5x-schouwkit-cxkitz5006": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
 "/nl/ketelaansluit-t-met-meetopening-ø100-150-naar-ø200-300-concaskam100150200300": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
@@ -26107,50 +25935,6 @@
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
 },
-"/nl/steunbocht-ø-80-galva-steunijzer-voor-flexibel-cxbbsg08": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/driedubbele-schoorsteenkap-ø80-voor-cx-reeks-zwarte-flexibel-cxdkg083": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/trekbeveiliging-ø60-cxlb06": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/trekbeveiliging-ø80-cxlb08": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/trekbeveiliging-ø100-cxlb10": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/dakdoorvoer-ø80-125-met-aansluiting-voor-de-zwarte-flex-ø80-als-voor-ø60-cxz08-cxz06-cxdvc0806": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/pps-muurplaat-aansluiting-ø80-125-met-vloei-steunbocht-70-naar-uv-bestendige-flexibele-aansluiting-ø80-cxzbbsmp08": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/pps-muurplaat-aansluiting-ø60-100-met-vloei-steunbocht-70-naar-uv-bestendige-flexibele-aansluiting-ø60-cxzbbsmp06": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/steunbocht-87-ø60-cxzbbs06": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/steunbocht-87-ø80-cxzbbs08": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/steunbocht-87-ø100-cxzbbs10": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
 "/nl/kit-uv-bestendige-flexibel-rol-ø80-50-meter-5x-schouwkit-cxkitz5008": {
 "code": 200,
 "op": "2026-10-19T18:01:57+00:00"
@@ -26172,26 +25956,6 @@
 "op": "2026-10-19T18:01:57+00:00"
 },
 "/nl/cx-montagekit-grote-kap-ø100-voor-pps-flexibel-uitmonding-basisplaat-35x35-cxz1kit10": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/zwart-uv-bestendige-aansluitmof-boven-met-flens-ø80-cxzacf08": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/zwart-uv-bestendige-aansluitmof-boven-met-flens-ø60-cxzacf06": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/grespotkap-met-flex-koppeling-voor-ø80-en-ø60-cxgresg0608": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/pps-flex-kit-met-dakkap-voor-pps-flexibel-ø80-761012": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/pps-flex-kit-met-dakkap-voor-pps-flexibel-ø110-762012": {
 "code": 200,
 "op": "2026-10-19T18:01:57+00:00"
 },
@@ -26226,6 +25990,242 @@
 "/nl/t-stuk-c14-87-1-m-ø125-60-met-afschroefbare-aansluitbuis-pzc14t12506": {
 "code": 200,
 "op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø100-pw-reeks-pwsal100": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø110-pw-reeks-pwsal110": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø200-pw-reeks-pwsal200": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø60-pw-reeks-pwsal060": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø160-pw-reeks-pwsal160": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø80-pw-reeks-pwsal080": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø250-pw-reeks-pwsal250": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø125-pw-reeks-pwsal125": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø125-ie-reeks-iesal125": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø300-ie-reeks-iesal300": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø60-ie-reeks-iesal060": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø100-ie-reeks-iesal100": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø150-ie-reeks-iesal150": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø200-ie-reeks-iesal200": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø170-ie-reeks-iesal170": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø110-ie-reeks-iesal110": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø130-ie-reeks-iesal130": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø160-ie-reeks-iesal160": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø180-ie-reeks-iesal180": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø80-ie-reeks-iesal080": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø250-ie-reeks-iesal250": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø160-pz-reeks-pzsal160": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø250-pz-reeks-pzsal250": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø200-pz-reeks-pzsal200": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø125-pz-reeks-pzsal125": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø110-pz-reeks-pzsal110": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø100-pz-reeks-pzsal100": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø60-pz-reeks-pzsal060": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schachtafdekplaat-met-luchtinlaat-ø80-pz-reeks-pzsal080": {
+"code": 200,
+"op": "2026-10-22T08:41:27+00:00"
+},
+"/nl/schoorsteenkap-ø80-cx-reeks-voor-zwarte-flexibel-cxkg08": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/verlengset-2-x-0-25m-buis-voor-t-uitmonding-cx-ø80-cxvt08": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/steunbocht-87-ø60-cxzbbs06": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/steunbocht-87-ø80-cxzbbs08": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/steunbocht-87-ø100-cxzbbs10": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/cx-ø-80-t-uitmonding-voor-montage-onder-deksteen-cxuit08": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/grespotkap-met-flex-koppeling-voor-ø80-en-ø60-cxgresg0608": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/pps-flex-kit-met-dakkap-voor-pps-flexibel-ø80-761012": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/pps-flex-kit-met-dakkap-voor-pps-flexibel-ø110-762012": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/steunbocht-ø-80-galva-steunijzer-voor-flexibel-cxbbsg08": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/driedubbele-schoorsteenkap-ø80-voor-cx-reeks-zwarte-flexibel-cxdkg083": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/zwart-uv-bestendige-afstandhouder-ø60-cxah06": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/zwart-uv-bestendige-afstandhouder-ø100-cxah10": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/zwart-uv-bestendige-afstandhouder-ø80-cxah08": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/pps-muurplaat-met-korte-steunbocht-87-ø80-cxzbbsk08": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/pps-muurplaat-met-korte-steunbocht-87-ø60-cxzbbsk06": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/trekbeveiliging-ø60-cxlb06": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/trekbeveiliging-ø80-cxlb08": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/trekbeveiliging-ø100-cxlb10": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/dakdoorvoer-ø80-125-met-aansluiting-voor-de-zwarte-flex-ø80-als-voor-ø60-cxz08-cxz06-cxdvc0806": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/dichting-voor-flexibel-ø100-cxseal10": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/dichting-voor-flexibel-ø80-cxseal08": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/dichting-voor-flexibel-ø60-cxseal06": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/pps-muurplaat-aansluiting-ø80-125-met-vloei-steunbocht-70-naar-uv-bestendige-flexibele-aansluiting-ø80-cxzbbsmp08": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/pps-muurplaat-aansluiting-ø60-100-met-vloei-steunbocht-70-naar-uv-bestendige-flexibele-aansluiting-ø60-cxzbbsmp06": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/steunbocht-87-ø80-met-verloop-naar-ø60-galva-steunijzer-cxbbsv0806": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/kit-uv-bestendige-flexibel-rol-ø80-50-meter-5x-schouwkit-cxkitz5008gr": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/kit-uv-bestendige-flexibel-rol-ø60-50-meter-5x-schouwkit-cxkitz5006": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/zwart-uv-bestendige-aansluitmof-boven-met-flens-ø80-cxzacf08": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/zwart-uv-bestendige-aansluitmof-boven-met-flens-ø60-cxzacf06": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
 },
 "/en/home": {
 "code": 200,
