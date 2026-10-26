@@ -5763,9 +5763,33 @@
 "code": 200,
 "op": "2026-10-19T18:01:57+00:00"
 },
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/ontkoppelbeveiliging-trekbeveiliging-voor-flexibel-klemband": {
+"/nl/rookgasafvoer/dubbelwandige-rookgasafvoer/inox-rvs/inox-dubbelwandige-id-reeks/pasbuis-verstelbare-lengte": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/inox-rvs/inox-enkelwandig-ie-reeks/centreerplaten-paar": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/concentrische-rookgasafvoer/concentrisch-systeem-voor-binnenplaatsing/cf-reeks-alu-pp-/buis-2-meter": {
+"code": 404,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/ketelonderhoud/ketelborstels/schroefborstels/schroefborstels/rechthoekige-schroefborstel-met-stalen-haren": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/stofzuigers-en-toebehoren/onderdelen-accessoires/kits/kits/kit-38mm": {
 "code": 302,
 "op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/ketelonderhoud/ketelborstels/handborstels/handborstels/buisborstel-ø-20-mm-met-houten-handvat": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pp-kunststof/zwarte-uv-bestendige-pz-reeks/terugslagklep-rookgas-pps-cascade-en-clv-ø60-ø80-ø110": {
+"code": 200,
+"op": "2026-10-20T06:46:33+00:00"
 },
 "/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/verlengset-2-x-0-25m-buis-voor-t-uitmonding-cx-ø80": {
 "code": 302,
@@ -5803,33 +5827,9 @@
 "code": 200,
 "op": "2026-10-19T18:01:57+00:00"
 },
-"/nl/rookgasafvoer/dubbelwandige-rookgasafvoer/inox-rvs/inox-dubbelwandige-id-reeks/pasbuis-verstelbare-lengte": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/inox-rvs/inox-enkelwandig-ie-reeks/centreerplaten-paar": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/concentrische-rookgasafvoer/concentrisch-systeem-voor-binnenplaatsing/cf-reeks-alu-pp-/buis-2-meter": {
-"code": 404,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/ketelonderhoud/ketelborstels/schroefborstels/schroefborstels/rechthoekige-schroefborstel-met-stalen-haren": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/stofzuigers-en-toebehoren/onderdelen-accessoires/kits/kits/kit-38mm": {
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/ontkoppelbeveiliging-trekbeveiliging-voor-flexibel-klemband": {
 "code": 302,
 "op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/ketelonderhoud/ketelborstels/handborstels/handborstels/buisborstel-ø-20-mm-met-houten-handvat": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/rookgasafvoer/enkelwandige-rookgasafvoer/pp-kunststof/zwarte-uv-bestendige-pz-reeks/terugslagklep-rookgas-pps-cascade-en-clv-ø60-ø80-ø110": {
-"code": 200,
-"op": "2026-10-20T06:46:33+00:00"
 },
 "/nl/schoorsteenborstel-rechthoek-uit-verenstaal-met-ringkoppeling-400x200-1675": {
 "code": 200,
@@ -26143,7 +26143,19 @@
 "code": 200,
 "op": "2026-10-19T18:01:57+00:00"
 },
-"/nl/ld-flue-ontkoppelbeveiliging-trekbeveiliging-voor-flexibel-ø80-cx-reeks-klemband-cxkb08": {
+"/nl/buisborstel-staal-ø-20-mm-met-houten-handvat-l-330-mm-diz201": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/terugslagklep-pps-ø110-voor-pw-reeks-pwtk11": {
+"code": 200,
+"op": "2026-10-20T06:46:33+00:00"
+},
+"/nl/buisborstel-nylon-ø-20-mm-met-houten-handvat-l-440-mm-diz200": {
+"code": 200,
+"op": "2026-10-19T18:01:57+00:00"
+},
+"/nl/buisborstel-messing-ø-20-mm-met-houten-handvat-l-330-mm-diz202": {
 "code": 200,
 "op": "2026-10-19T18:01:57+00:00"
 },
@@ -26211,19 +26223,7 @@
 "code": 200,
 "op": "2026-10-19T18:01:57+00:00"
 },
-"/nl/buisborstel-staal-ø-20-mm-met-houten-handvat-l-330-mm-diz201": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/terugslagklep-pps-ø110-voor-pw-reeks-pwtk11": {
-"code": 200,
-"op": "2026-10-20T06:46:33+00:00"
-},
-"/nl/buisborstel-nylon-ø-20-mm-met-houten-handvat-l-440-mm-diz200": {
-"code": 200,
-"op": "2026-10-19T18:01:57+00:00"
-},
-"/nl/buisborstel-messing-ø-20-mm-met-houten-handvat-l-330-mm-diz202": {
+"/nl/ld-flue-ontkoppelbeveiliging-trekbeveiliging-voor-flexibel-ø80-cx-reeks-klemband-cxkb08": {
 "code": 200,
 "op": "2026-10-19T18:01:57+00:00"
 },
