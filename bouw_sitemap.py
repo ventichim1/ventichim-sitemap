@@ -12,7 +12,9 @@ niet voor welk land een adres bedoeld is. Dit script maakt daar per pagina een g
     www.ventichim.nl/en/...  en-NL
 
 Elk adres in de groep noemt alle andere (zo wil Google het). Pagina's die niet (meer) bestaan, worden
-eruit gelaten: Vendisto stuurt die met een 302 naar /Error/404.
+eruit gelaten: Vendisto stuurt die met een 302 naar /Error/404. Elke taal wordt apart nagekeken: werkt de
+Franse of Engelse versie niet (bv. adres langer dan 260 tekens, dan crasht de shop), dan valt alleen die
+taal weg en blijft de rest van de groep staan (Search Console "Soft 404", 26-10-2026).
 
 Gebruik:
     python bouw_sitemap.py            sitemap bouwen in .\\site, status van nieuwe adressen nakijken
@@ -145,10 +147,11 @@ KOP = ('<?xml version="1.0" encoding="UTF-8"?>\n'
 def bouw(groepen, losse):
     bestanden = {k: [] for k in CODES}
     for g in groepen:
-        links = [(CODES[(h, t)], h + codeer(g[t])) for h in (BE, NL) for t in TALEN]
+        talen = g.get("talen", TALEN)
+        links = [(CODES[(h, t)], h + codeer(g[t])) for h in (BE, NL) for t in talen]
         links.append(("x-default", BE + codeer(g["nl"])))
         for h in (BE, NL):
-            for t in TALEN:
+            for t in talen:
                 bestanden[(h, t)].append(url_blok(h + codeer(g[t]), g["lastmod"], links))
     # pagina's zonder vertaalkoppeling (vaste pagina's): alleen het paar Belgie/Nederland
     for pad, lastmod in losse:
@@ -197,11 +200,18 @@ def main():
         sys.exit("Te weinig pagina's in de Vendisto-sitemap; vorige versie blijft staan.")
 
     if not a.geen_controle:
-        codes = controleer([g["nl"] for g in groepen] + [p for p, _ in losse], a.alles)
+        codes = controleer([g[t] for g in groepen for t in TALEN] + [p for p, _ in losse], a.alles)
         voor = len(groepen)
         groepen = [g for g in groepen if codes.get(g["nl"]) == 200]
         losse = [(p, lm) for p, lm in losse if codes.get(p) == 200]
         print(f"weggelaten (bestaan niet meer): {voor - len(groepen)} vertaalde pagina's")
+        kapot = []
+        for g in groepen:
+            g["talen"] = tuple(t for t in TALEN if codes.get(g[t]) == 200)
+            kapot += [g[t] for t in TALEN if t not in g["talen"]]
+        print(f"weggelaten vertalingen die niet werken: {len(kapot)}")
+        for p in kapot:
+            print(f"  {codes.get(p)} {p}")
 
     for naam, n in bouw(groepen, losse):
         print(f"{naam}: {n} adressen")

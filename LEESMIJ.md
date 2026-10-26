@@ -64,6 +64,17 @@ er gaat niets verloren en de volgende nacht probeert hij het opnieuw.
   `https://api.github.com/repos/ventichim1/ventichim-sitemap/actions/runs` (laatste runs),
   `.../actions/runs/<run-id>/jobs` (welke stap) en `.../check-runs/<job-id>/annotations` (de melding).
 
+## Mail "Soft 404" (26-10-2026)
+
+Search Console meldde een "Soft 404" voor een pagina uit deze sitemap: de Franse versie van de overgangsmof
+CIOG. Oorzaak: de webshop crasht op een adres langer dan 260 tekens (302 naar een lege /Error-pagina die 200
+geeft; één te lang adresdeel geeft 400). Franse categorienamen zijn lang, dus vooral FR loopt daartegen aan.
+Het script keurde tot dan alleen de Nederlandse pagina; sinds 26-10-2026 keurt het elke taal apart en laat
+het een Franse of Engelse versie die niet werkt weg (de rest van de groep blijft staan). In het log van de
+run staat de lijst "weggelaten vertalingen die niet werken". Staat daar iets, dan is de oplossing de titel
+van dat product in die taal inkorten in Vendisto (de shop zet zelf een 301 van het oude naar het nieuwe adres,
+behalve voor een adres dat te lang is: dat blijft een foutpagina).
+
 De oude Vendisto-sitemap `https://www.ventichim.be/sitemap.xml` staat ook in Search Console (sinds
 13-08-2025, door iemand anders ingediend) met 6.184 fouten "URL niet toegestaan": alle adressen staan op
 www.ventichim.nl. Die heeft dus nooit gewerkt.
