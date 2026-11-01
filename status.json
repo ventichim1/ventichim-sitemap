@@ -17135,18 +17135,6 @@
 "code": 302,
 "op": "2026-10-26T12:56:45+00:00"
 },
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/pps-muurplaat-met-korte-steunbocht-87": {
-"code": 200,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/plaque-murale-pps-avec-support-court-coude-a-87": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/pps-wall-plate-with-short-support-bend-87": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
 "/nl/houtkachels/trimline-fires-kachels/trimline-fires-kachels/trimline-fires-kachels/houtkachel-trimline-woody-loft-6-4-kw-op-onderstel": {
 "code": 200,
 "op": "2026-10-29T10:03:50+00:00"
@@ -17867,42 +17855,6 @@
 "code": 302,
 "op": "2026-10-26T12:56:45+00:00"
 },
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/grespotkap-met-flex-koppeling-voor-ø80-en-ø60": {
-"code": 302,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/cxgresg0608": {
-"code": 302,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/cxgresg0608": {
-"code": 302,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/driedubbel-schoorsteenkap": {
-"code": 302,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/cxdkg083": {
-"code": 302,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/cxdkg083": {
-"code": 302,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/ontkoppelbeveiliging-trekbeveiliging-voor-flexibel-klemband": {
-"code": 302,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/protection-contre-la-deconnexion-protection-contre-la-traction-pour-flexible-bande-de-serrage": {
-"code": 302,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/disconnect-protection-pull-protection-for-flexible-clamp-band": {
-"code": 302,
-"op": "2026-10-26T12:56:45+00:00"
-},
 "/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/uv-bestendige-afstandhouder": {
 "code": 200,
 "op": "2026-10-27T09:05:10+00:00"
@@ -17925,6 +17877,54 @@
 },
 "/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/extension-set-2-x-0-25m-pipe-for-t-outlet-cx-ø80": {
 "code": 302,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/dichting-voor-flexibel": {
+"code": 200,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/joint-pour-flexible": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/seal-for-flexible": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/kit-uv-bestendige-flexibel-rol-50-meter-5x-schouwkit-kleine-kap": {
+"code": 302,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/kit-rouleau-flexible-resistant-aux-uv-50-metres-5x-kit-cheminee-petite-hotte": {
+"code": 302,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/kit-uv-resistant-flexible-roll-50-meters-5x-chimney-kit-small-hood": {
+"code": 302,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/uv-bestendige-aansluitmof-met-flens-boven": {
+"code": 200,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/manchon-de-raccordement-resistant-aux-uv-avec-bride-en-haut": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/uv-resistant-connecting-sleeve-with-flange-top": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/pps-muurplaat-met-korte-steunbocht-87": {
+"code": 200,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/plaque-murale-pps-avec-support-court-coude-a-87": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/pps-wall-plate-with-short-support-bend-87": {
+"code": 200,
 "op": "2026-10-26T12:56:45+00:00"
 },
 "/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/trekbeveiliging": {
@@ -17951,18 +17951,6 @@
 "code": 302,
 "op": "2026-10-26T12:56:45+00:00"
 },
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/dichting-voor-flexibel": {
-"code": 200,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/joint-pour-flexible": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/seal-for-flexible": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
 "/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/pps-muurplaat-concentrische-aansluiting-met-vloei-steunbocht-70-naar-uv-bestendige-flexibel": {
 "code": 200,
 "op": "2026-10-27T09:05:10+00:00"
@@ -17985,18 +17973,6 @@
 },
 "/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/adjustable-support-bend-87": {
 "code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/kit-uv-bestendige-flexibel-rol-50-meter-5x-schouwkit-kleine-kap": {
-"code": 302,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/kit-rouleau-flexible-resistant-aux-uv-50-metres-5x-kit-cheminee-petite-hotte": {
-"code": 302,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/kit-uv-resistant-flexible-roll-50-meters-5x-chimney-kit-small-hood": {
-"code": 302,
 "op": "2026-10-26T12:56:45+00:00"
 },
 "/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/cx-afkortmes-voor-flexibel": {
@@ -18059,16 +18035,40 @@
 "code": 200,
 "op": "2026-10-26T12:56:45+00:00"
 },
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/uv-bestendige-aansluitmof-met-flens-boven": {
-"code": 200,
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/grespotkap-met-flex-koppeling-voor-ø80-en-ø60": {
+"code": 302,
 "op": "2026-10-27T09:05:10+00:00"
 },
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/manchon-de-raccordement-resistant-aux-uv-avec-bride-en-haut": {
-"code": 200,
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/cxgresg0608": {
+"code": 302,
 "op": "2026-10-26T12:56:45+00:00"
 },
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/uv-resistant-connecting-sleeve-with-flange-top": {
-"code": 200,
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/cxgresg0608": {
+"code": 302,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/driedubbel-schoorsteenkap": {
+"code": 302,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/cxdkg083": {
+"code": 302,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/cxdkg083": {
+"code": 302,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/ontkoppelbeveiliging-trekbeveiliging-voor-flexibel-klemband": {
+"code": 302,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/protection-contre-la-deconnexion-protection-contre-la-traction-pour-flexible-bande-de-serrage": {
+"code": 302,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/disconnect-protection-pull-protection-for-flexible-clamp-band": {
+"code": 302,
 "op": "2026-10-26T12:56:45+00:00"
 },
 "/nl/schoorsteenborstel-rechthoek-uit-verenstaal-met-ringkoppeling-400x200-1675": {
@@ -76991,30 +76991,6 @@
 "code": 200,
 "op": "2026-10-26T12:56:45+00:00"
 },
-"/nl/pps-muurplaat-met-korte-steunbocht-87-ø80-cxzbbsk08": {
-"code": 200,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/plaque-murale-pps-avec-coude-de-support-court-87-ø80-cxzbbsk08": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/pps-wall-plate-with-short-support-bend-87-ø80-cxzbbsk08": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/nl/pps-muurplaat-met-korte-steunbocht-87-ø60-cxzbbsk06": {
-"code": 200,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/plaque-murale-pps-avec-coude-de-support-court-87-ø60-cxzbbsk06": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/pps-wall-plate-with-short-support-bend-87-ø60-cxzbbsk06": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
 "/nl/onderstel-smalle-rillen-prwoodylofts": {
 "code": 200,
 "op": "2026-10-29T10:03:50+00:00"
@@ -79835,42 +79811,6 @@
 "code": 200,
 "op": "2026-10-26T12:56:45+00:00"
 },
-"/nl/grespotkap-met-flex-koppeling-voor-ø80-en-ø60-cxgresg0608": {
-"code": 200,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/capuchon-en-gres-avec-raccord-flexible-pour-ø80-et-ø60-cxgresg0608": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/grespotkap-met-flex-koppeling-voor-ø80-en-ø60-cxgresg0608": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/nl/driedubbele-schoorsteenkap-ø80-voor-cx-reeks-zwarte-flexibel-cxdkg083": {
-"code": 200,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/chapeau-de-cheminee-triple-ø80-pour-la-serie-cx-noir-flexible-cxdkg083": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/driedubbele-schoorsteenkap-ø80-voor-cx-reeks-zwarte-flexibel-cxdkg083": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/nl/ld-flue-ontkoppelbeveiliging-trekbeveiliging-voor-flexibel-ø80-cx-reeks-klemband-cxkb08": {
-"code": 200,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/protection-de-deconnexion-protection-contre-l-arrachement-ld-flue-pour-flexible-ø80-serie-cx-collier-cxkb08": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/ld-flue-disconnect-protection-pull-protection-for-flexible-ø80-cx-series-clamp-cxkb08": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
 "/nl/zwart-uv-bestendige-afstandhouder-ø60-cxah06": {
 "code": 200,
 "op": "2026-10-27T09:05:10+00:00"
@@ -79919,6 +79859,102 @@
 "code": 200,
 "op": "2026-10-26T12:56:45+00:00"
 },
+"/nl/dichting-voor-flexibel-ø100-cxseal10": {
+"code": 200,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/joint-pour-flexible-ø100-cxseal10": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/seal-for-flexible-ø100-cxseal10": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/dichting-voor-flexibel-ø80-cxseal08": {
+"code": 200,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/joint-pour-flexible-ø80-cxseal08": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/seal-for-flexible-ø80-cxseal08": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/dichting-voor-flexibel-ø60-cxseal06": {
+"code": 200,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/joint-pour-flexible-ø60-cxseal06": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/seal-for-flexible-ø60-cxseal06": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/kit-uv-bestendige-flexibel-rol-ø80-50-meter-5x-schouwkit-cxkitz5008": {
+"code": 200,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/kit-rouleau-flexible-anti-uv-ø80-50-metres-5x-kit-cheminee-cxkitz5008": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/kit-uv-resistant-flexible-roll-ø80-50-meters-5x-chimney-kit-cxkitz5008": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/zwart-uv-bestendige-aansluitmof-boven-met-flens-ø80-cxzacf08": {
+"code": 200,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/manchon-de-raccordement-noir-resistant-aux-uv-superieur-avec-bride-ø80-cxzacf08": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/black-uv-resistant-connecting-sleeve-top-with-flange-ø80-cxzacf08": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/zwart-uv-bestendige-aansluitmof-boven-met-flens-ø60-cxzacf06": {
+"code": 200,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/manchon-de-raccordement-noir-resistant-aux-uv-superieur-avec-bride-ø60-cxzacf06": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/black-uv-resistant-connecting-sleeve-top-with-flange-ø60-cxzacf06": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/pps-muurplaat-met-korte-steunbocht-87-ø80-cxzbbsk08": {
+"code": 200,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/plaque-murale-pps-avec-coude-de-support-court-87-ø80-cxzbbsk08": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/pps-wall-plate-with-short-support-bend-87-ø80-cxzbbsk08": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/pps-muurplaat-met-korte-steunbocht-87-ø60-cxzbbsk06": {
+"code": 200,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/plaque-murale-pps-avec-coude-de-support-court-87-ø60-cxzbbsk06": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/pps-wall-plate-with-short-support-bend-87-ø60-cxzbbsk06": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
 "/nl/trekbeveiliging-ø60-cxlb06": {
 "code": 200,
 "op": "2026-10-27T09:05:10+00:00"
@@ -79964,42 +80000,6 @@
 "op": "2026-10-26T12:56:45+00:00"
 },
 "/en/roof-duct-ø80-125-with-connection-for-the-black-flex-ø80-as-well-as-for-ø60-cxz08-cxz06-cxdvc0806": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/nl/dichting-voor-flexibel-ø100-cxseal10": {
-"code": 200,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/joint-pour-flexible-ø100-cxseal10": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/seal-for-flexible-ø100-cxseal10": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/nl/dichting-voor-flexibel-ø80-cxseal08": {
-"code": 200,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/joint-pour-flexible-ø80-cxseal08": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/seal-for-flexible-ø80-cxseal08": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/nl/dichting-voor-flexibel-ø60-cxseal06": {
-"code": 200,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/joint-pour-flexible-ø60-cxseal06": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/seal-for-flexible-ø60-cxseal06": {
 "code": 200,
 "op": "2026-10-26T12:56:45+00:00"
 },
@@ -80060,18 +80060,6 @@
 "op": "2026-10-26T12:56:45+00:00"
 },
 "/en/support-bend-87-ø100-cxzbbs10": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/nl/kit-uv-bestendige-flexibel-rol-ø80-50-meter-5x-schouwkit-cxkitz5008": {
-"code": 200,
-"op": "2026-10-27T09:05:10+00:00"
-},
-"/fr/kit-rouleau-flexible-anti-uv-ø80-50-metres-5x-kit-cheminee-cxkitz5008": {
-"code": 200,
-"op": "2026-10-26T12:56:45+00:00"
-},
-"/en/kit-uv-resistant-flexible-roll-ø80-50-meters-5x-chimney-kit-cxkitz5008": {
 "code": 200,
 "op": "2026-10-26T12:56:45+00:00"
 },
@@ -80183,27 +80171,39 @@
 "code": 200,
 "op": "2026-10-26T12:56:45+00:00"
 },
-"/nl/zwart-uv-bestendige-aansluitmof-boven-met-flens-ø80-cxzacf08": {
+"/nl/grespotkap-met-flex-koppeling-voor-ø80-en-ø60-cxgresg0608": {
 "code": 200,
 "op": "2026-10-27T09:05:10+00:00"
 },
-"/fr/manchon-de-raccordement-noir-resistant-aux-uv-superieur-avec-bride-ø80-cxzacf08": {
+"/fr/capuchon-en-gres-avec-raccord-flexible-pour-ø80-et-ø60-cxgresg0608": {
 "code": 200,
 "op": "2026-10-26T12:56:45+00:00"
 },
-"/en/black-uv-resistant-connecting-sleeve-top-with-flange-ø80-cxzacf08": {
+"/en/grespotkap-met-flex-koppeling-voor-ø80-en-ø60-cxgresg0608": {
 "code": 200,
 "op": "2026-10-26T12:56:45+00:00"
 },
-"/nl/zwart-uv-bestendige-aansluitmof-boven-met-flens-ø60-cxzacf06": {
+"/nl/driedubbele-schoorsteenkap-ø80-voor-cx-reeks-zwarte-flexibel-cxdkg083": {
 "code": 200,
 "op": "2026-10-27T09:05:10+00:00"
 },
-"/fr/manchon-de-raccordement-noir-resistant-aux-uv-superieur-avec-bride-ø60-cxzacf06": {
+"/fr/chapeau-de-cheminee-triple-ø80-pour-la-serie-cx-noir-flexible-cxdkg083": {
 "code": 200,
 "op": "2026-10-26T12:56:45+00:00"
 },
-"/en/black-uv-resistant-connecting-sleeve-top-with-flange-ø60-cxzacf06": {
+"/en/driedubbele-schoorsteenkap-ø80-voor-cx-reeks-zwarte-flexibel-cxdkg083": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/nl/ld-flue-ontkoppelbeveiliging-trekbeveiliging-voor-flexibel-ø80-cx-reeks-klemband-cxkb08": {
+"code": 200,
+"op": "2026-10-27T09:05:10+00:00"
+},
+"/fr/protection-de-deconnexion-protection-contre-l-arrachement-ld-flue-pour-flexible-ø80-serie-cx-collier-cxkb08": {
+"code": 200,
+"op": "2026-10-26T12:56:45+00:00"
+},
+"/en/ld-flue-disconnect-protection-pull-protection-for-flexible-ø80-cx-series-clamp-cxkb08": {
 "code": 200,
 "op": "2026-10-26T12:56:45+00:00"
 },
