@@ -2,14 +2,12 @@
 
 Bron: de sitemap die Vendisto zelf maakt (https://www.ventichim.be/Sitemap/Google). Die koppelt elke
 Nederlandstalige pagina al aan de Franse en Engelse versie, maar zet alles op www.ventichim.nl en zegt
-niet voor welk land een adres bedoeld is. Dit script maakt daar per pagina een groep van zes adressen van:
+niet voor welk land een adres bedoeld is. Dit script maakt daar per pagina een groep van vier adressen van:
 
     www.ventichim.be/nl/...  nl-BE   (ook x-default)
     www.ventichim.be/fr/...  fr      (alle Franstaligen: Belgie, Frankrijk, Luxemburg)
     www.ventichim.be/en/...  en
     www.ventichim.nl/nl/...  nl-NL
-    www.ventichim.nl/fr/...  fr-NL
-    www.ventichim.nl/en/...  en-NL
 
 Elk adres in de groep noemt alle andere (zo wil Google het). Pagina's die niet (meer) bestaan, worden
 eruit gelaten: Vendisto stuurt die met een 302 naar /Error/404. Elke taal wordt apart nagekeken: werkt de
@@ -50,10 +48,13 @@ CODES = {
     (BE, "fr"): "fr",
     (BE, "en"): "en",
     (NL, "nl"): "nl-NL",
-    (NL, "fr"): "fr-NL",
-    (NL, "en"): "en-NL",
 }
 TALEN = ("nl", "fr", "en")
+# 07-11-2026: steekproef Search Console, .nl in het Frans 1 van 40 en in het Engels 0 van 40 geindexeerd. Die 12.600 adressen
+# kosten Google alleen crawlwerk. www.ventichim.nl blijft de Nederlandse versie voor Nederland; FR en EN alleen nog op .be.
+HOST_TALEN = {BE: ("nl", "fr", "en"), NL: ("nl",)}
+# De home ontbreekt in de Vendisto-sitemap (nl) of staat er zonder vertaalkoppeling (fr, en).
+HOME = {"lastmod": None, "nl": "/nl/home", "fr": "/fr/home", "en": "/en/home"}
 WEG = re.compile(r"^/kennisbank-voorbeeld-")  # proefpagina's zonder taal, horen niet in Google
 
 
@@ -81,12 +82,13 @@ def lees_bron(xml):
         lastmod = lm.group(1).strip() if lm else None
         alt = dict(re.findall(r'hreflang="([a-z]{2})"\s+href="([^"]+)"', blok))
         pad = pad_van(loc)
-        if WEG.match(pad):
+        if WEG.match(pad) or pad in (HOME["nl"], HOME["fr"], HOME["en"]):
             continue
         if all(t in alt for t in TALEN):
             groepen.append({"lastmod": lastmod, **{t: pad_van(alt[t]) for t in TALEN}})
         else:
             losse.append((pad, lastmod))
+    groepen.insert(0, dict(HOME))
     return groepen, losse
 
 
@@ -119,7 +121,8 @@ def controleer(paden, alles):
         if verlopen:
             te_doen.append(p)
     print(f"status nakijken: {len(te_doen)} van {len(paden)} adressen", flush=True)
-    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
+    # Een verbinding tegelijk: de webshop verdraagt geen parallelle crawl (07-11-2026).
+    with concurrent.futures.ThreadPoolExecutor(max_workers=1) as pool:
         for i, (p, code) in enumerate(zip(te_doen, pool.map(status_van, te_doen)), 1):
             oud[p] = {"code": code, "op": nu.isoformat(timespec="seconds")}
             if i % 500 == 0:
@@ -148,18 +151,19 @@ def bouw(groepen, losse):
     bestanden = {k: [] for k in CODES}
     for g in groepen:
         talen = g.get("talen", TALEN)
-        links = [(CODES[(h, t)], h + codeer(g[t])) for h in (BE, NL) for t in talen]
+        paren = [(h, t) for h in (BE, NL) for t in talen if t in HOST_TALEN[h]]
+        links = [(CODES[(h, t)], h + codeer(g[t])) for h, t in paren]
         links.append(("x-default", BE + codeer(g["nl"])))
-        for h in (BE, NL):
-            for t in talen:
-                bestanden[(h, t)].append(url_blok(h + codeer(g[t]), g["lastmod"], links))
+        for h, t in paren:
+            bestanden[(h, t)].append(url_blok(h + codeer(g[t]), g["lastmod"], links))
     # pagina's zonder vertaalkoppeling (vaste pagina's): alleen het paar Belgie/Nederland
     for pad, lastmod in losse:
         taal = pad.strip("/").split("/")[0] if pad.strip("/") else "nl"
         if taal not in TALEN:
             continue
-        links = [(CODES[(BE, taal)], BE + codeer(pad)), (CODES[(NL, taal)], NL + codeer(pad))]
-        for h in (BE, NL):
+        hosts = [h for h in (BE, NL) if taal in HOST_TALEN[h]]
+        links = [(CODES[(h, taal)], h + codeer(pad)) for h in hosts]
+        for h in hosts:
             bestanden[(h, taal)].append(url_blok(h + codeer(pad), lastmod, links))
 
     UIT.mkdir(exist_ok=True)
