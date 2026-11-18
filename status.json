@@ -20056,12 +20056,12 @@
 "op": "2026-11-17T11:57:57+00:00"
 },
 "/fr/systeme-d-evacuation-des-fumees/evacuation-concentrique-des-gaz-de-combustion/metaloterm-us/metaloterm-us/usb3010": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/en/flue-gas-venting-system/concentric-flue-gas-exhaust/metaloterm-us/metaloterm-us/usb3010": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/nl/rookgasafvoer/concentrische-rookgasafvoer/metaloterm-us/metaloterm-us/concentrisch-aansluitstuk": {
 "code": 200,
@@ -25547,18 +25547,6 @@
 "code": 200,
 "op": "2026-11-14T10:33:14+00:00"
 },
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/trekbeveiliging": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/protection-contre-la-traction": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/pull-protection": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
 "/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/kleine-uv-bestendige-schoorsteenkap": {
 "code": 302,
 "op": "2026-11-17T11:57:57+00:00"
@@ -25617,18 +25605,6 @@
 },
 "/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/mounting-kit-small-hood-for-flexible": {
 "code": 302,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/montagekit-grote-kap-voor-flexibel": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/kit-de-montage-grande-hotte-pour-flexible": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/mounting-kit-large-hood-for-flexible": {
-"code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
 "/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/pps-muurplaat-met-vloei-steunbocht-70": {
@@ -25703,30 +25679,6 @@
 "code": 200,
 "op": "2026-11-14T10:33:14+00:00"
 },
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/cx-afkortmes-voor-flexibel": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/couteau-de-coupe-cx-pour-flexible": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/cx-cutting-knife-for-flexible": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/t-uitmonding-voor-montage-onder-deksteen-zwart-pps-flexibel": {
-"code": 302,
-"op": "2026-11-14T10:33:14+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/sortie-en-t-pour-montage-sous-pierre-de-couverture-pps-noir-flexible": {
-"code": 302,
-"op": "2026-11-14T10:33:14+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/t-outlet-for-mounting-under-cover-stone-black-pps-flexible": {
-"code": 302,
-"op": "2026-11-14T10:33:14+00:00"
-},
 "/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/ontkoppelbeveiliging-trekbeveiliging-voor-flexibel-klemband": {
 "code": 302,
 "op": "2026-11-17T11:57:57+00:00"
@@ -25737,6 +25689,42 @@
 },
 "/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/disconnect-protection-pull-protection-for-flexible-clamp-band": {
 "code": 302,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/houtkachels/max-blank-kachels/max-blank-houtkachels/accumulatiekachels-max-blank/accumulatiekachel-max-blank-turin-sp-5-kw": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poeles-a-bois/poeles-max-blank/poeles-a-bois-max-blank/poeles-a-accumulation-max-blank/poele-a-accumulation-max-blank-turin-sp-5-kw": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/wood-stoves/max-blank-stoves/max-blank-wood-stoves/heat-storage-stoves-max-blank/max-blank-turin-sp-heat-storage-stove-5-kw": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/kit-uv-bestendige-flexibel-rol-50-meter-5x-schouwkit-kleine-kap": {
+"code": 302,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/kit-rouleau-flexible-resistant-aux-uv-50-metres-5x-kit-cheminee-petite-hotte": {
+"code": 302,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/kit-uv-resistant-flexible-roll-50-meters-5x-chimney-kit-small-hood": {
+"code": 302,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/uv-bestendige-aansluitmof-met-flens-boven": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/manchon-de-raccordement-resistant-aux-uv-avec-bride-en-haut": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/uv-resistant-connecting-sleeve-with-flange-top": {
+"code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
 "/nl/houtkachels/max-blank-kachels/max-blank-houtkachels/accumulatiekachels-max-blank/accumulatiekachel-max-blank-dijon-kamerhoog-8-6-kw": {
@@ -25892,18 +25880,6 @@
 "op": "2026-11-12T11:23:18+00:00"
 },
 "/en/wood-stoves/max-blank-stoves/max-blank-wood-stoves/heat-storage-stoves-max-blank/max-blank-stratos-m-heat-storage-stove-7-9-kw": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/houtkachels/max-blank-kachels/max-blank-houtkachels/accumulatiekachels-max-blank/accumulatiekachel-max-blank-turin-sp-5-kw": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poeles-a-bois/poeles-max-blank/poeles-a-bois-max-blank/poeles-a-accumulation-max-blank/poele-a-accumulation-max-blank-turin-sp-5-kw": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/wood-stoves/max-blank-stoves/max-blank-wood-stoves/heat-storage-stoves-max-blank/max-blank-turin-sp-heat-storage-stove-5-kw": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
@@ -26147,6 +26123,126 @@
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/montagekit-grote-kap-voor-flexibel": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/kit-de-montage-grande-hotte-pour-flexible": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/mounting-kit-large-hood-for-flexible": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/steunbocht-87-met-verloop-galva-steunijzer": {
+"code": 302,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/coude-de-support-87-avec-transition-fer-de-support-galvanise": {
+"code": 302,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/support-bend-87-with-transition-galvanized-support-iron": {
+"code": 302,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/kit-uv-bestendige-flexibel-rol-50-meter-5x-schouwkit-grote-kap-incl-montagekruis": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/kit-rouleau-flexible-resistant-aux-uv-50-metres-5x-kit-cheminee-grande-hotte-avec-croix-de-montage": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/kit-uv-resistant-flexible-roll-50-meters-5x-chimney-kit-large-hood-incl-mounting-cross": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/pps-muurplaat-met-korte-steunbocht-87": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/plaque-murale-pps-avec-support-court-coude-a-87": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/pps-wall-plate-with-short-support-bend-87": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/trekbeveiliging": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/protection-contre-la-traction": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/pull-protection": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/dakdoorvoer-met-aansluiting": {
+"code": 302,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/conduit-de-toit-avec-raccordement": {
+"code": 302,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/roof-duct-with-connection": {
+"code": 302,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/dichting-voor-flexibel": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/joint-pour-flexible": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/seal-for-flexible": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/pps-muurplaat-concentrische-aansluiting-met-vloei-steunbocht-70-naar-uv-bestendige-flexibel": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/plaque-murale-pps-avec-raccord-concentrique-et-coude-de-support-fluide-a-70-vers-flexible-resistant-aux-uv": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/pps-wall-plate-with-concentric-connection-and-smooth-70-support-bend-to-uv-resistant-flexible": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/cx-afkortmes-voor-flexibel": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/couteau-de-coupe-cx-pour-flexible": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/cx-cutting-knife-for-flexible": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/t-uitmonding-voor-montage-onder-deksteen-zwart-pps-flexibel": {
+"code": 302,
+"op": "2026-11-14T10:33:14+00:00"
+},
+"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/sortie-en-t-pour-montage-sous-pierre-de-couverture-pps-noir-flexible": {
+"code": 302,
+"op": "2026-11-14T10:33:14+00:00"
+},
+"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/t-outlet-for-mounting-under-cover-stone-black-pps-flexible": {
+"code": 302,
+"op": "2026-11-14T10:33:14+00:00"
+},
 "/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/grespotkap-met-flex-koppeling-voor-ø80-en-ø60": {
 "code": 302,
 "op": "2026-11-17T11:57:57+00:00"
@@ -26193,102 +26289,6 @@
 },
 "/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/support-bend-87-galvanized-support-iron-for-flexible": {
 "code": 302,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/pps-muurplaat-met-korte-steunbocht-87": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/plaque-murale-pps-avec-support-court-coude-a-87": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/pps-wall-plate-with-short-support-bend-87": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/dakdoorvoer-met-aansluiting": {
-"code": 302,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/conduit-de-toit-avec-raccordement": {
-"code": 302,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/roof-duct-with-connection": {
-"code": 302,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/dichting-voor-flexibel": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/joint-pour-flexible": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/seal-for-flexible": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/pps-muurplaat-concentrische-aansluiting-met-vloei-steunbocht-70-naar-uv-bestendige-flexibel": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/plaque-murale-pps-avec-raccord-concentrique-et-coude-de-support-fluide-a-70-vers-flexible-resistant-aux-uv": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/pps-wall-plate-with-concentric-connection-and-smooth-70-support-bend-to-uv-resistant-flexible": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/kit-uv-bestendige-flexibel-rol-50-meter-5x-schouwkit-kleine-kap": {
-"code": 302,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/kit-rouleau-flexible-resistant-aux-uv-50-metres-5x-kit-cheminee-petite-hotte": {
-"code": 302,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/kit-uv-resistant-flexible-roll-50-meters-5x-chimney-kit-small-hood": {
-"code": 302,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/steunbocht-87-met-verloop-galva-steunijzer": {
-"code": 302,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/coude-de-support-87-avec-transition-fer-de-support-galvanise": {
-"code": 302,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/support-bend-87-with-transition-galvanized-support-iron": {
-"code": 302,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/kit-uv-bestendige-flexibel-rol-50-meter-5x-schouwkit-grote-kap-incl-montagekruis": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/kit-rouleau-flexible-resistant-aux-uv-50-metres-5x-kit-cheminee-grande-hotte-avec-croix-de-montage": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/kit-uv-resistant-flexible-roll-50-meters-5x-chimney-kit-large-hood-incl-mounting-cross": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/rookgasafvoer/flexibele-rookgasafvoer/kunststof-flexibels/pps-zwarte-flexibele-rookgasafvoer/uv-bestendige-aansluitmof-met-flens-boven": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/systeme-d-evacuation-des-fumees/evacuation-flexible-des-gaz-de-combustion/flexibles-en-plastique/serie-cx-pp-flexible-noir-resistant-aux-uv/manchon-de-raccordement-resistant-aux-uv-avec-bride-en-haut": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/flue-gas-venting-system/flexible-flue-gas-exhaust/plastic-flexibles/cx-series-black-uv-resistant-pp-flexible/uv-resistant-connecting-sleeve-with-flange-top": {
-"code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
 "/nl/installatiehandschoenen-maat-10-per-paar-hs10": {
@@ -41968,108 +41968,108 @@
 "op": "2026-11-17T11:57:57+00:00"
 },
 "/fr/raccord-excentrique-ø80-male-ø180-femelle-avec-joint-ievge080180": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/en/excentrische-vergroter-ø80-mannelijk-ø180-vrouwelijk-met-dichting-ievge080180": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/nl/excentrische-vergroter-ø100-mannelijk-ø130-vrouwelijk-met-dichting-ievge100130": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/fr/raccord-excentrique-ø100-male-ø130-femelle-avec-joint-ievge100130": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/en/excentrische-vergroter-ø100-mannelijk-ø130-vrouwelijk-met-dichting-ievge100130": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/nl/excentrische-vergroter-ø80-mannelijk-ø125-vrouwelijk-met-dichting-ievge080125": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/fr/agrandisseur-excentrique-ø125-male-ø130-femelle-avec-joint-ievge080125": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/en/eccentric-enlarger-ø125-male-ø130-female-with-seal-ievge080125": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/nl/excentrische-vergroter-ø110-mannelijk-ø130-vrouwelijk-met-dichting-ievge110130": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/fr/raccord-excentrique-ø110-male-ø130-femelle-avec-joint-ievge110130": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/en/excentrische-vergroter-ø110-mannelijk-ø130-vrouwelijk-met-dichting-ievge110130": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/nl/excentrische-vergroter-ø150-mannelijk-ø300-vrouwelijk-met-dichting-ievge150300": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/fr/raccord-excentrique-ø150-male-ø300-femelle-avec-joint-ievge150300": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/en/excentrische-vergroter-ø150-mannelijk-ø300-vrouwelijk-met-dichting-ievge150300": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/nl/excentrische-vergroter-ø100-mannelijk-ø200-vrouwelijk-met-dichting-ievge100200": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/fr/raccord-excentrique-ø100-male-ø200-femelle-avec-joint-ievge100200": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/en/excentrische-vergroter-ø100-mannelijk-ø200-vrouwelijk-met-dichting-ievge100200": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/nl/excentrische-vergroter-ø100-mannelijk-ø250-vrouwelijk-met-dichting-ievge100250": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/fr/raccord-excentrique-ø100-male-ø250-femelle-avec-joint-ievge100250": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/en/excentrische-vergroter-ø100-mannelijk-ø250-vrouwelijk-met-dichting-ievge100250": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/nl/excentrische-vergroter-ø80-mannelijk-ø300-vrouwelijk-met-dichting-ievge080300": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/fr/raccord-excentrique-ø80-male-ø300-femelle-avec-joint-ievge080300": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/en/excentrische-vergroter-ø80-mannelijk-ø300-vrouwelijk-met-dichting-ievge080300": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/nl/excentrische-vergroter-ø160-mannelijk-ø250-vrouwelijk-met-dichting-ievge160250": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/fr/raccord-excentrique-ø160-male-ø250-femelle-avec-joint-ievge160250": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/en/excentrische-vergroter-ø160-mannelijk-ø250-vrouwelijk-met-dichting-ievge160250": {
-"code": 0,
-"op": "2026-11-17T11:57:57+00:00"
+"code": 200,
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/nl/excentrische-vergroter-ø60-mannelijk-ø80-vrouwelijk-met-dichting-ievge06080": {
 "code": 200,
@@ -54037,31 +54037,31 @@
 },
 "/nl/aansluitstuk-spie-ø110-vaste-buis-naar-flexibel-fxda110": {
 "code": 200,
-"op": "2026-11-11T11:04:18+00:00"
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/fr/piece-de-raccordement-ø110-tube-fixe-vers-flexible-fxda110": {
 "code": 200,
-"op": "2026-11-11T11:04:18+00:00"
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/en/connection-piece-ø110-fixed-pipe-to-flexible-fxda110": {
 "code": 200,
-"op": "2026-11-11T11:04:18+00:00"
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/nl/aansluitstuk-spie-ø180-vaste-buis-naar-flexibel-fxda180": {
 "code": 200,
-"op": "2026-11-11T11:04:18+00:00"
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/fr/piece-de-raccordement-ø180-tube-fixe-vers-flexible-fxda180": {
 "code": 200,
-"op": "2026-11-11T11:04:18+00:00"
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/en/connection-piece-ø180-fixed-pipe-to-flexible-fxda180": {
 "code": 200,
-"op": "2026-11-11T11:04:18+00:00"
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/nl/aansluitstuk-spie-ø150-vaste-buis-naar-flexibel-fxda150": {
 "code": 200,
-"op": "2026-11-11T11:04:18+00:00"
+"op": "2026-11-18T11:50:23+00:00"
 },
 "/fr/piece-de-raccordement-ø150-tube-fixe-vers-flexible-fxda150": {
 "code": 200,
@@ -96023,42 +96023,6 @@
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/nl/trekbeveiliging-ø60-cxlb06": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/protection-anti-traction-ø60-cxlb06": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/pull-protection-ø60-cxlb06": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/trekbeveiliging-ø80-cxlb08": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/protection-anti-traction-ø80-cxlb08": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/pull-protection-ø80-cxlb08": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/trekbeveiliging-ø100-cxlb10": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/protection-contre-la-traction-ø100-cxlb10": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/pull-protection-ø100-cxlb10": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
 "/nl/schoorsteenkap-ø80-cx-reeks-voor-zwarte-flexibel-cxkg08": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
@@ -96176,42 +96140,6 @@
 "op": "2026-11-17T11:57:57+00:00"
 },
 "/en/cx-mounting-kit-small-hood-ø80-for-pps-flexible-base-plate-outlet-30x30-cxz2kit08": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/cx-montagekit-grote-kap-ø80-voor-pps-flexibel-uitmonding-basisplaat-35x35-cxz1kit08": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/kit-de-montage-cx-grand-capot-ø80-pour-flexible-pps-sortie-embase-35x35-cxz1kit08": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/cx-mounting-kit-large-hood-ø80-for-pps-flexible-base-plate-outlet-35x35-cxz1kit08": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/cx-montagekit-grote-kap-ø60-voor-pps-flexibel-uitmonding-basisplaat-35x35-cxz1kit06": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/kit-de-montage-cx-grand-capot-ø60-pour-flexible-pps-sortie-embase-35x35-cxz1kit06": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/cx-mounting-kit-large-hood-ø60-for-pps-flexible-base-plate-outlet-35x35-cxz1kit06": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/cx-montagekit-grote-kap-ø100-voor-pps-flexibel-uitmonding-basisplaat-35x35-cxz1kit10": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/kit-de-montage-cx-grand-capot-ø100-pour-flexible-pps-sortie-embase-35x35-cxz1kit10": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/cx-mounting-kit-large-hood-ø100-for-pps-flexible-base-plate-outlet-35x35-cxz1kit10": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
@@ -96347,42 +96275,6 @@
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/nl/cx-afkortmes-ø60-ø80-cxcut06": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/lame-de-coupe-cx-ø60-ø80-cxcut06": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/cx-cutting-blade-ø60-ø80-cxcut06": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/cx-afkortmes-ø100-ø110-cxcut10": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/lame-de-coupe-cx-ø100-ø110-cxcut10": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/cx-cutting-blade-ø100-ø110-cxcut10": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/nl/cx-ø-80-t-uitmonding-voor-montage-onder-deksteen-cxuit08": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/fr/sortie-cx-ø-80-t-pour-montage-sous-pierre-de-couverture-cxuit08": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
-"/en/cx-ø-80-t-outlet-for-mounting-under-cover-stone-cxuit08": {
-"code": 200,
-"op": "2026-11-17T11:57:57+00:00"
-},
 "/nl/ld-flue-ontkoppelbeveiliging-trekbeveiliging-voor-flexibel-ø80-cx-reeks-klemband-cxkb08": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
@@ -96406,30 +96298,6 @@
 "/en/max-blank-ke-12-am-fireplace-insert-mounting-frame-h-106-5-x-w-48-cm-double-glazing-hinge-left-mb5412013": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
-},
-"/nl/houtkachel-max-blank-andorra-draaibaar-kachelhoogte-287-6-436-cm-mb2552001h": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-max-blank-andorra-pivotant-hauteur-287-6-436-cm-mb2552001h": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-andorra-swivel-wood-stove-height-287-6-436-cm-mb2552001h": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/houtkachel-max-blank-andorra-draaibaar-kachelhoogte-163-287-5-cm-mb2552001": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-max-blank-andorra-pivotant-hauteur-163-287-5-cm-mb2552001": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-andorra-swivel-wood-stove-height-163-287-5-cm-mb2552001": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
 },
 "/nl/inzethaard-max-blank-ke-11-am-montageframe-h-106-5-x-b-48-cm-dubbele-beglazing-scharnier-links-mb5402013": {
 "code": 200,
@@ -96455,66 +96323,6 @@
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
-"/nl/houtkachel-max-blank-nimes-staal-mb2342201": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-max-blank-nimes-acier-mb2342201": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-nimes-steel-wood-stove-mb2342201": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/houtkachel-max-blank-nimes-natuursteen-lichtgrijs-gestraald-mb2332201": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-max-blank-nimes-pierre-naturelle-gris-clair-sable-mb2332201": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-nimes-natural-stone-wood-stove-light-grey-blasted-mb2332201": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-89-5-x-b-48-cm-dubbele-beglazing-scharnier-links-mb5402012": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-89-5-x-l-48-cm-double-vitrage-charniere-a-gauche-mb5402012": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-89-5-x-w-48-cm-double-glazing-hinge-left-mb5402012": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-83-5-x-b-48-cm-enkele-beglazing-scharnier-links-mb5402002": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-83-5-x-l-48-cm-simple-vitrage-charniere-a-gauche-mb5402002": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-83-5-x-w-48-cm-single-glazing-hinge-left-mb5402002": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-89-5-x-b-48-cm-dubbele-beglazing-scharnier-rechts-mb5402032": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-89-5-x-l-48-cm-double-vitrage-charniere-a-droite-mb5402032": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-89-5-x-w-48-cm-double-glazing-hinge-right-mb5402032": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
 "/nl/accumulatiekachel-max-blank-turin-sp-natuursteen-zwart-lederstructuur-rookgas-boven-mb1582025": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
@@ -96527,111 +96335,555 @@
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/nl/houtkachel-max-blank-bonn-keramiek-chamois-mb1562007": {
+"/nl/kit-uv-bestendige-flexibel-rol-ø80-50-meter-5x-schouwkit-cxkitz5008": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/kit-rouleau-flexible-anti-uv-ø80-50-metres-5x-kit-cheminee-cxkitz5008": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/kit-uv-resistant-flexible-roll-ø80-50-meters-5x-chimney-kit-cxkitz5008": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/zwart-uv-bestendige-aansluitmof-boven-met-flens-ø80-cxzacf08": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/manchon-de-raccordement-noir-resistant-aux-uv-superieur-avec-bride-ø80-cxzacf08": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/black-uv-resistant-connecting-sleeve-top-with-flange-ø80-cxzacf08": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/zwart-uv-bestendige-aansluitmof-boven-met-flens-ø60-cxzacf06": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/manchon-de-raccordement-noir-resistant-aux-uv-superieur-avec-bride-ø60-cxzacf06": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/black-uv-resistant-connecting-sleeve-top-with-flange-ø60-cxzacf06": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/inzethaard-max-blank-ke-12-am-montageframe-h-79-x-b-42-cm-enkele-beglazing-scharnier-links-mb5412005": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/fr/foyer-encastrable-max-blank-ke-12-am-cadre-de-montage-h-79-x-l-42-cm-simple-vitrage-charniere-a-gauche-mb5412005": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/en/max-blank-ke-12-am-fireplace-insert-mounting-frame-h-79-x-w-42-cm-single-glazing-hinge-left-mb5412005": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/nl/inzethaard-max-blank-ke-12-am-montageframe-h-83-5-x-b-48-cm-enkele-beglazing-scharnier-links-mb5412002": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/fr/foyer-encastrable-max-blank-ke-12-am-cadre-de-montage-h-83-5-x-l-48-cm-simple-vitrage-charniere-a-gauche-mb5412002": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/en/max-blank-ke-12-am-fireplace-insert-mounting-frame-h-83-5-x-w-48-cm-single-glazing-hinge-left-mb5412002": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-106-5-x-b-48-cm-enkele-beglazing-scharnier-rechts-mb5402023": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-106-5-x-l-48-cm-simple-vitrage-charniere-a-droite-mb5402023": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-106-5-x-w-48-cm-single-glazing-hinge-right-mb5402023": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-106-5-x-b-48-cm-enkele-beglazing-scharnier-links-mb5402004": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-106-5-x-l-48-cm-simple-vitrage-charniere-a-gauche-mb5402004": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-106-5-x-w-48-cm-single-glazing-hinge-left-mb5402004": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-79-x-b-48-cm-dubbele-beglazing-scharnier-links-mb5402010": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-79-x-l-48-cm-double-vitrage-charniere-a-gauche-mb5402010": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-79-x-w-48-cm-double-glazing-hinge-left-mb5402010": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-89-5-x-b-48-cm-enkele-beglazing-scharnier-rechts-mb5402022": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-89-5-x-l-48-cm-simple-vitrage-charniere-a-droite-mb5402022": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-89-5-x-w-48-cm-single-glazing-hinge-right-mb5402022": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-83-5-x-b-48-cm-enkele-beglazing-scharnier-rechts-mb5402021": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-83-5-x-l-48-cm-simple-vitrage-charniere-a-droite-mb5402021": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-83-5-x-w-48-cm-single-glazing-hinge-right-mb5402021": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/nl/inzethaard-max-blank-ke-1-okofire-am-montageframe-h-83-5-x-b-48-cm-mb5012020": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/fr/foyer-encastrable-max-blank-ke-1-okofire-am-cadre-de-montage-h-83-5-x-l-48-cm-mb5012020": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/en/max-blank-ke-1-okofire-am-fireplace-insert-mounting-frame-h-83-5-x-w-48-cm-mb5012020": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/nl/inzethaard-max-blank-ke-1-okofire-am-montageframe-h-79-x-b-48-cm-mb5012022": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/fr/foyer-encastrable-max-blank-ke-1-okofire-am-cadre-de-montage-h-79-x-l-48-cm-mb5012022": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/en/max-blank-ke-1-okofire-am-fireplace-insert-mounting-frame-h-79-x-w-48-cm-mb5012022": {
+"code": 200,
+"op": "2026-11-13T11:06:23+00:00"
+},
+"/nl/houtkachel-max-blank-lille-iv-staal-mb1372021": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/fr/poele-a-bois-max-blank-bonn-ceramique-chamois-mb1562007": {
+"/fr/poele-a-bois-max-blank-lille-iv-acier-mb1372021": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/en/max-blank-bonn-ceramic-wood-stove-chamois-mb1562007": {
+"/en/max-blank-lille-iv-steel-wood-stove-mb1372021": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/nl/houtkachel-max-blank-bonn-keramiek-kersrood-mb1562010": {
+"/nl/houtkachel-max-blank-lille-iv-natuursteen-creme-glad-mb1372030": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/fr/poele-a-bois-max-blank-bonn-ceramique-rouge-cerise-mb1562010": {
+"/fr/poele-a-bois-max-blank-lille-iv-pierre-naturelle-creme-lisse-mb1372030": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/en/max-blank-bonn-ceramic-wood-stove-cherry-red-mb1562010": {
+"/en/max-blank-lille-iv-natural-stone-wood-stove-cream-smooth-mb1372030": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/nl/houtkachel-max-blank-turin-s-natuursteen-lichtgrijs-gestraald-rookgas-boven-mb1572019": {
+"/nl/houtkachel-max-blank-lille-iv-keramiek-kersrood-mb1372046": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/fr/poele-a-bois-max-blank-turin-s-pierre-naturelle-gris-clair-sable-sortie-dessus-mb1572019": {
+"/fr/poele-a-bois-max-blank-lille-iv-ceramique-rouge-cerise-mb1372046": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/en/max-blank-turin-s-natural-stone-wood-stove-light-grey-blasted-top-flue-mb1572019": {
+"/en/max-blank-lille-iv-ceramic-wood-stove-cherry-red-mb1372046": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/nl/grespotkap-met-flex-koppeling-voor-ø80-en-ø60-cxgresg0608": {
+"/nl/houtkachel-max-blank-lille-iv-keramiek-antraciet-mb1372049": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-max-blank-lille-iv-ceramique-anthracite-mb1372049": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-lille-iv-ceramic-wood-stove-anthracite-mb1372049": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-max-blank-lille-iv-keramiek-kobaltblauw-mb1372040": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-max-blank-lille-iv-ceramique-bleu-cobalt-mb1372040": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-lille-iv-ceramic-wood-stove-cobalt-blue-mb1372040": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-met-warmhoudvak-max-blank-toulouse-wf-natuursteen-grijs-gebeiteld-rookgas-boven-mb1192009": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-avec-chauffe-plats-max-blank-toulouse-wf-pierre-naturelle-grise-bouchardee-sortie-dessus-mb1192009": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-toulouse-wf-natural-stone-wood-stove-with-warming-compartment-grey-chiselled-top-flue-mb1192009": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-met-warmhoudvak-max-blank-toulouse-wf-natuursteen-grijs-gebeiteld-rookgas-achter-mb1192012": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-avec-chauffe-plats-max-blank-toulouse-wf-pierre-naturelle-grise-bouchardee-sortie-arriere-mb1192012": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-toulouse-wf-natural-stone-wood-stove-with-warming-compartment-grey-chiselled-rear-flue-mb1192012": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-met-warmhoudvak-max-blank-toulouse-wf-natuursteen-zwart-glad-rookgas-boven-mb1192056": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-avec-chauffe-plats-max-blank-toulouse-wf-pierre-naturelle-noire-lisse-sortie-dessus-mb1192056": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-toulouse-wf-natural-stone-wood-stove-with-warming-compartment-black-smooth-top-flue-mb1192056": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-met-warmhoudvak-max-blank-toulouse-wf-natuursteen-zwart-glad-rookgas-achter-mb1192059": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-avec-chauffe-plats-max-blank-toulouse-wf-pierre-naturelle-noire-lisse-sortie-arriere-mb1192059": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-toulouse-wf-natural-stone-wood-stove-with-warming-compartment-black-smooth-rear-flue-mb1192059": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-turin-sp-natuursteen-lichtgrijs-gestraald-rookgas-achter-mb1582022": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-turin-sp-pierre-naturelle-gris-clair-sable-sortie-arriere-mb1582022": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-turin-sp-natural-stone-heat-storage-stove-light-grey-blasted-rear-flue-mb1582022": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-turin-sp-natuursteen-creme-glad-rookgas-boven-mb1582031": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-turin-sp-pierre-naturelle-creme-lisse-sortie-dessus-mb1582031": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-turin-sp-natural-stone-heat-storage-stove-cream-smooth-top-flue-mb1582031": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-turin-sp-staal-rookgas-achter-mb1582004": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-turin-sp-acier-sortie-arriere-mb1582004": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-turin-sp-steel-heat-storage-stove-rear-flue-mb1582004": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-turin-sp-natuursteen-creme-glad-rookgas-achter-mb1582034": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-turin-sp-pierre-naturelle-creme-lisse-sortie-arriere-mb1582034": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-turin-sp-natural-stone-heat-storage-stove-cream-smooth-rear-flue-mb1582034": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-turin-sp-staal-rookgas-boven-mb1582001": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-turin-sp-acier-sortie-dessus-mb1582001": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-turin-sp-steel-heat-storage-stove-top-flue-mb1582001": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-turin-sp-natuursteen-zwart-lederstructuur-rookgas-achter-mb1582028": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-turin-sp-pierre-naturelle-noire-aspect-cuir-sortie-arriere-mb1582028": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-turin-sp-natural-stone-heat-storage-stove-black-leather-texture-rear-flue-mb1582028": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-met-warmhoudvak-max-blank-rio-wf-keramiek-engels-groen-mb1862137": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-avec-chauffe-plats-max-blank-rio-wf-ceramique-vert-anglais-mb1862137": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-rio-wf-ceramic-wood-stove-with-warming-compartment-english-green-mb1862137": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-met-warmhoudvak-max-blank-rio-wf-keramiek-kersrood-mb1862119": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-avec-chauffe-plats-max-blank-rio-wf-ceramique-rouge-cerise-mb1862119": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-rio-wf-ceramic-wood-stove-with-warming-compartment-cherry-red-mb1862119": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-met-warmhoudvak-max-blank-rio-wf-natuursteen-lichtgrijs-gestraald-mb1862019": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-avec-chauffe-plats-max-blank-rio-wf-pierre-naturelle-gris-clair-sable-mb1862019": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-rio-wf-natural-stone-wood-stove-with-warming-compartment-light-grey-blasted-mb1862019": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-met-warmhoudvak-max-blank-rio-wf-natuursteen-zwart-glad-mb1862025": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-avec-chauffe-plats-max-blank-rio-wf-pierre-naturelle-noire-lisse-mb1862025": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-rio-wf-natural-stone-wood-stove-with-warming-compartment-black-smooth-mb1862025": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-rio-sp-keramiek-antraciet-mb1822056": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-rio-sp-ceramique-anthracite-mb1822056": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-rio-sp-ceramic-heat-storage-stove-anthracite-mb1822056": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-rio-sp-keramiek-kersrood-mb1822049": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-rio-sp-ceramique-rouge-cerise-mb1822049": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-rio-sp-ceramic-heat-storage-stove-cherry-red-mb1822049": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-rio-sp-natuursteen-zandsteen-gewolkt-mb1822013": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-rio-sp-pierre-naturelle-gres-nuage-mb1822013": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-rio-sp-natural-stone-heat-storage-stove-clouded-sandstone-mb1822013": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-rio-sp-keramiek-antraciet-fijn-geribd-mb1822062": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-rio-sp-ceramique-anthracite-finement-rainure-mb1822062": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-rio-sp-ceramic-heat-storage-stove-anthracite-fine-ribbed-mb1822062": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-rio-sp-natuursteen-lichtgrijs-gestraald-mb1822019": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-rio-sp-pierre-naturelle-gris-clair-sable-mb1822019": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-rio-sp-natural-stone-heat-storage-stove-light-grey-blasted-mb1822019": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-rio-sp-keramiek-chamois-mb1822031": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-rio-sp-ceramique-chamois-mb1822031": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-rio-sp-ceramic-heat-storage-stove-chamois-mb1822031": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-rio-sp-natuursteen-zwart-glad-mb1822025": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-rio-sp-pierre-naturelle-noire-lisse-mb1822025": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-rio-sp-natural-stone-heat-storage-stove-black-smooth-mb1822025": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-rio-sp-keramiek-engels-groen-mb1822068": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-rio-sp-ceramique-vert-anglais-mb1822068": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-rio-sp-ceramic-heat-storage-stove-english-green-mb1822068": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/accumulatiekachel-max-blank-rio-sp-natuursteen-creme-glad-mb1822007": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-accumulation-max-blank-rio-sp-pierre-naturelle-creme-lisse-mb1822007": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-rio-sp-natural-stone-heat-storage-stove-cream-smooth-mb1822007": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/cx-montagekit-grote-kap-ø80-voor-pps-flexibel-uitmonding-basisplaat-35x35-cxz1kit08": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/fr/capuchon-en-gres-avec-raccord-flexible-pour-ø80-et-ø60-cxgresg0608": {
+"/fr/kit-de-montage-cx-grand-capot-ø80-pour-flexible-pps-sortie-embase-35x35-cxz1kit08": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/en/grespotkap-met-flex-koppeling-voor-ø80-en-ø60-cxgresg0608": {
+"/en/cx-mounting-kit-large-hood-ø80-for-pps-flexible-base-plate-outlet-35x35-cxz1kit08": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/nl/pps-flex-kit-met-dakkap-voor-pps-flexibel-ø80-761012": {
+"/nl/cx-montagekit-grote-kap-ø60-voor-pps-flexibel-uitmonding-basisplaat-35x35-cxz1kit06": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/fr/kit-flexible-pps-avec-capuchon-de-toit-pour-flexible-pps-ø80-761012": {
+"/fr/kit-de-montage-cx-grand-capot-ø60-pour-flexible-pps-sortie-embase-35x35-cxz1kit06": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/en/pps-flex-kit-with-roof-cap-for-pps-flexible-ø80-761012": {
+"/en/cx-mounting-kit-large-hood-ø60-for-pps-flexible-base-plate-outlet-35x35-cxz1kit06": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/nl/pps-flex-kit-met-dakkap-voor-pps-flexibel-ø110-762012": {
+"/nl/cx-montagekit-grote-kap-ø100-voor-pps-flexibel-uitmonding-basisplaat-35x35-cxz1kit10": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/fr/kit-flexible-pps-avec-capuchon-de-toit-pour-flexible-pps-ø110-762012": {
+"/fr/kit-de-montage-cx-grand-capot-ø100-pour-flexible-pps-sortie-embase-35x35-cxz1kit10": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/en/pps-flex-kit-with-roof-cap-for-pps-flexible-ø110-762012": {
+"/en/cx-mounting-kit-large-hood-ø100-for-pps-flexible-base-plate-outlet-35x35-cxz1kit10": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/nl/zwart-uv-bestendige-koppelstuk-ø60-flex-star-onderkant-spie-kant-cxza06": {
+"/nl/steunbocht-87-ø80-met-verloop-naar-ø60-galva-steunijzer-cxbbsv0806": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/fr/raccord-noir-resistant-aux-uv-ø60-flex-rigide-cote-embout-inferieur-cxza06": {
+"/fr/coude-de-support-87-ø80-avec-cone-a-ø60-fer-de-support-galvanise-cxbbsv0806": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/en/black-uv-resistant-coupling-piece-ø60-flex-rigid-bottom-spigot-side-cxza06": {
+"/en/support-bend-87-ø80-with-taper-to-ø60-galvanized-support-iron-cxbbsv0806": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/nl/zwart-uv-bestendige-koppelstuk-ø80-flex-star-onderkant-spie-kant-cxza08": {
+"/nl/kit-uv-bestendige-flexibel-rol-ø80-50-meter-5x-schouwkit-cxkitz5008gr": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/fr/raccord-noir-resistant-aux-uv-ø60-flex-rigide-cote-embout-inferieur-cxza08": {
+"/fr/kit-rouleau-flexible-anti-uv-ø80-50-metres-5x-kit-cheminee-cxkitz5008gr": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/en/black-uv-resistant-coupling-piece-ø60-flex-rigid-bottom-spigot-side-cxza08": {
+"/en/kit-uv-resistant-flexible-roll-ø80-50-meters-5x-chimney-kit-cxkitz5008gr": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/nl/steunbocht-ø-80-galva-steunijzer-voor-flexibel-cxbbsg08": {
+"/nl/kit-uv-bestendige-flexibel-rol-ø60-50-meter-5x-schouwkit-cxkitz5006": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/fr/support-coude-ø-80-fer-de-support-galvanise-pour-flexible-cxbbsg08": {
+"/fr/kit-uv-bestendige-flexibel-rol-ø60-50-meter-5x-schouwkit-cxkitz5006": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/en/support-bend-ø-80-galvanized-support-iron-for-flexible-cxbbsg08": {
+"/en/kit-uv-resistant-flexible-roll-ø60-50-meters-5x-chimney-kit-cxkitz5006": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
@@ -96656,6 +96908,42 @@
 "op": "2026-11-17T11:57:57+00:00"
 },
 "/en/pps-wall-plate-with-short-support-bend-87-ø60-cxzbbsk06": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/trekbeveiliging-ø60-cxlb06": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/protection-anti-traction-ø60-cxlb06": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/pull-protection-ø60-cxlb06": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/trekbeveiliging-ø80-cxlb08": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/protection-anti-traction-ø80-cxlb08": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/pull-protection-ø80-cxlb08": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/trekbeveiliging-ø100-cxlb10": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/protection-contre-la-traction-ø100-cxlb10": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/pull-protection-ø100-cxlb10": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
@@ -96731,75 +97019,111 @@
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/nl/kit-uv-bestendige-flexibel-rol-ø80-50-meter-5x-schouwkit-cxkitz5008": {
+"/nl/cx-afkortmes-ø60-ø80-cxcut06": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/fr/kit-rouleau-flexible-anti-uv-ø80-50-metres-5x-kit-cheminee-cxkitz5008": {
+"/fr/lame-de-coupe-cx-ø60-ø80-cxcut06": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/en/kit-uv-resistant-flexible-roll-ø80-50-meters-5x-chimney-kit-cxkitz5008": {
+"/en/cx-cutting-blade-ø60-ø80-cxcut06": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/nl/steunbocht-87-ø80-met-verloop-naar-ø60-galva-steunijzer-cxbbsv0806": {
+"/nl/cx-afkortmes-ø100-ø110-cxcut10": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/fr/coude-de-support-87-ø80-avec-cone-a-ø60-fer-de-support-galvanise-cxbbsv0806": {
+"/fr/lame-de-coupe-cx-ø100-ø110-cxcut10": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/en/support-bend-87-ø80-with-taper-to-ø60-galvanized-support-iron-cxbbsv0806": {
+"/en/cx-cutting-blade-ø100-ø110-cxcut10": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/nl/kit-uv-bestendige-flexibel-rol-ø80-50-meter-5x-schouwkit-cxkitz5008gr": {
+"/nl/cx-ø-80-t-uitmonding-voor-montage-onder-deksteen-cxuit08": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/fr/kit-rouleau-flexible-anti-uv-ø80-50-metres-5x-kit-cheminee-cxkitz5008gr": {
+"/fr/sortie-cx-ø-80-t-pour-montage-sous-pierre-de-couverture-cxuit08": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/en/kit-uv-resistant-flexible-roll-ø80-50-meters-5x-chimney-kit-cxkitz5008gr": {
+"/en/cx-ø-80-t-outlet-for-mounting-under-cover-stone-cxuit08": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/nl/kit-uv-bestendige-flexibel-rol-ø60-50-meter-5x-schouwkit-cxkitz5006": {
+"/nl/grespotkap-met-flex-koppeling-voor-ø80-en-ø60-cxgresg0608": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/fr/kit-uv-bestendige-flexibel-rol-ø60-50-meter-5x-schouwkit-cxkitz5006": {
+"/fr/capuchon-en-gres-avec-raccord-flexible-pour-ø80-et-ø60-cxgresg0608": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/en/kit-uv-resistant-flexible-roll-ø60-50-meters-5x-chimney-kit-cxkitz5006": {
+"/en/grespotkap-met-flex-koppeling-voor-ø80-en-ø60-cxgresg0608": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/nl/zwart-uv-bestendige-aansluitmof-boven-met-flens-ø80-cxzacf08": {
+"/nl/pps-flex-kit-met-dakkap-voor-pps-flexibel-ø80-761012": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/fr/manchon-de-raccordement-noir-resistant-aux-uv-superieur-avec-bride-ø80-cxzacf08": {
+"/fr/kit-flexible-pps-avec-capuchon-de-toit-pour-flexible-pps-ø80-761012": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/en/black-uv-resistant-connecting-sleeve-top-with-flange-ø80-cxzacf08": {
+"/en/pps-flex-kit-with-roof-cap-for-pps-flexible-ø80-761012": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/nl/zwart-uv-bestendige-aansluitmof-boven-met-flens-ø60-cxzacf06": {
+"/nl/pps-flex-kit-met-dakkap-voor-pps-flexibel-ø110-762012": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/fr/manchon-de-raccordement-noir-resistant-aux-uv-superieur-avec-bride-ø60-cxzacf06": {
+"/fr/kit-flexible-pps-avec-capuchon-de-toit-pour-flexible-pps-ø110-762012": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
-"/en/black-uv-resistant-connecting-sleeve-top-with-flange-ø60-cxzacf06": {
+"/en/pps-flex-kit-with-roof-cap-for-pps-flexible-ø110-762012": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/zwart-uv-bestendige-koppelstuk-ø60-flex-star-onderkant-spie-kant-cxza06": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/raccord-noir-resistant-aux-uv-ø60-flex-rigide-cote-embout-inferieur-cxza06": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/black-uv-resistant-coupling-piece-ø60-flex-rigid-bottom-spigot-side-cxza06": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/zwart-uv-bestendige-koppelstuk-ø80-flex-star-onderkant-spie-kant-cxza08": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/raccord-noir-resistant-aux-uv-ø60-flex-rigide-cote-embout-inferieur-cxza08": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/black-uv-resistant-coupling-piece-ø60-flex-rigid-bottom-spigot-side-cxza08": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/nl/steunbocht-ø-80-galva-steunijzer-voor-flexibel-cxbbsg08": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/fr/support-coude-ø-80-fer-de-support-galvanise-pour-flexible-cxbbsg08": {
+"code": 200,
+"op": "2026-11-17T11:57:57+00:00"
+},
+"/en/support-bend-ø-80-galvanized-support-iron-for-flexible-cxbbsg08": {
 "code": 200,
 "op": "2026-11-17T11:57:57+00:00"
 },
@@ -96884,18 +97208,6 @@
 "op": "2026-11-13T11:06:23+00:00"
 },
 "/en/max-blank-ke-12-am-fireplace-insert-mounting-frame-h-89-5-x-w-42-cm-double-glazing-hinge-left-mb5412016": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/nl/inzethaard-max-blank-ke-12-am-montageframe-h-79-x-b-42-cm-enkele-beglazing-scharnier-links-mb5412005": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/fr/foyer-encastrable-max-blank-ke-12-am-cadre-de-montage-h-79-x-l-42-cm-simple-vitrage-charniere-a-gauche-mb5412005": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/en/max-blank-ke-12-am-fireplace-insert-mounting-frame-h-79-x-w-42-cm-single-glazing-hinge-left-mb5412005": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
@@ -97016,18 +97328,6 @@
 "op": "2026-11-13T11:06:23+00:00"
 },
 "/en/max-blank-ke-12-am-fireplace-insert-mounting-frame-h-89-5-x-w-48-cm-double-glazing-hinge-left-mb5412012": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/nl/inzethaard-max-blank-ke-12-am-montageframe-h-83-5-x-b-48-cm-enkele-beglazing-scharnier-links-mb5412002": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/fr/foyer-encastrable-max-blank-ke-12-am-cadre-de-montage-h-83-5-x-l-48-cm-simple-vitrage-charniere-a-gauche-mb5412002": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/en/max-blank-ke-12-am-fireplace-insert-mounting-frame-h-83-5-x-w-48-cm-single-glazing-hinge-left-mb5412002": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
@@ -97463,6 +97763,18 @@
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
+"/nl/houtkachel-max-blank-andorra-draaibaar-kachelhoogte-287-6-436-cm-mb2552001h": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-max-blank-andorra-pivotant-hauteur-287-6-436-cm-mb2552001h": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-andorra-swivel-wood-stove-height-287-6-436-cm-mb2552001h": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
 "/nl/houtkachel-max-blank-andorra-vast-kachelhoogte-287-6-436-cm-mb2552010h": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
@@ -97472,6 +97784,18 @@
 "op": "2026-11-12T11:23:18+00:00"
 },
 "/en/max-blank-andorra-fixed-wood-stove-height-287-6-436-cm-mb2552010h": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-max-blank-andorra-draaibaar-kachelhoogte-163-287-5-cm-mb2552001": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-max-blank-andorra-pivotant-hauteur-163-287-5-cm-mb2552001": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-andorra-swivel-wood-stove-height-163-287-5-cm-mb2552001": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
@@ -97532,6 +97856,30 @@
 "op": "2026-11-12T11:23:18+00:00"
 },
 "/en/max-blank-nimes-natural-stone-wood-stove-cream-smooth-mb2332401": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-max-blank-nimes-staal-mb2342201": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-max-blank-nimes-acier-mb2342201": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-nimes-steel-wood-stove-mb2342201": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-max-blank-nimes-natuursteen-lichtgrijs-gestraald-mb2332201": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-max-blank-nimes-pierre-naturelle-gris-clair-sable-mb2332201": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-nimes-natural-stone-wood-stove-light-grey-blasted-mb2332201": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
@@ -97619,51 +97967,39 @@
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
-"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-106-5-x-b-48-cm-enkele-beglazing-scharnier-rechts-mb5402023": {
+"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-89-5-x-b-48-cm-dubbele-beglazing-scharnier-links-mb5402012": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
-"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-106-5-x-l-48-cm-simple-vitrage-charniere-a-droite-mb5402023": {
+"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-89-5-x-l-48-cm-double-vitrage-charniere-a-gauche-mb5402012": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
-"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-106-5-x-w-48-cm-single-glazing-hinge-right-mb5402023": {
+"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-89-5-x-w-48-cm-double-glazing-hinge-left-mb5402012": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
-"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-106-5-x-b-48-cm-enkele-beglazing-scharnier-links-mb5402004": {
+"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-83-5-x-b-48-cm-enkele-beglazing-scharnier-links-mb5402002": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
-"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-106-5-x-l-48-cm-simple-vitrage-charniere-a-gauche-mb5402004": {
+"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-83-5-x-l-48-cm-simple-vitrage-charniere-a-gauche-mb5402002": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
-"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-106-5-x-w-48-cm-single-glazing-hinge-left-mb5402004": {
+"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-83-5-x-w-48-cm-single-glazing-hinge-left-mb5402002": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
-"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-79-x-b-48-cm-dubbele-beglazing-scharnier-links-mb5402010": {
+"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-89-5-x-b-48-cm-dubbele-beglazing-scharnier-rechts-mb5402032": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
-"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-79-x-l-48-cm-double-vitrage-charniere-a-gauche-mb5402010": {
+"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-89-5-x-l-48-cm-double-vitrage-charniere-a-droite-mb5402032": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
-"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-79-x-w-48-cm-double-glazing-hinge-left-mb5402010": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-89-5-x-b-48-cm-enkele-beglazing-scharnier-rechts-mb5402022": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-89-5-x-l-48-cm-simple-vitrage-charniere-a-droite-mb5402022": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-89-5-x-w-48-cm-single-glazing-hinge-right-mb5402022": {
+"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-89-5-x-w-48-cm-double-glazing-hinge-right-mb5402032": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
@@ -97676,18 +98012,6 @@
 "op": "2026-11-13T11:06:23+00:00"
 },
 "/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-79-x-w-48-cm-double-glazing-hinge-right-mb5402030": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/nl/inzethaard-max-blank-ke-11-am-montageframe-h-83-5-x-b-48-cm-enkele-beglazing-scharnier-rechts-mb5402021": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/fr/foyer-encastrable-max-blank-ke-11-am-cadre-de-montage-h-83-5-x-l-48-cm-simple-vitrage-charniere-a-droite-mb5402021": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/en/max-blank-ke-11-am-fireplace-insert-mounting-frame-h-83-5-x-w-48-cm-single-glazing-hinge-right-mb5402021": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
@@ -97751,30 +98075,6 @@
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
 },
-"/nl/inzethaard-max-blank-ke-1-okofire-am-montageframe-h-83-5-x-b-48-cm-mb5012020": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/fr/foyer-encastrable-max-blank-ke-1-okofire-am-cadre-de-montage-h-83-5-x-l-48-cm-mb5012020": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/en/max-blank-ke-1-okofire-am-fireplace-insert-mounting-frame-h-83-5-x-w-48-cm-mb5012020": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/nl/inzethaard-max-blank-ke-1-okofire-am-montageframe-h-79-x-b-48-cm-mb5012022": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/fr/foyer-encastrable-max-blank-ke-1-okofire-am-cadre-de-montage-h-79-x-l-48-cm-mb5012022": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
-"/en/max-blank-ke-1-okofire-am-fireplace-insert-mounting-frame-h-79-x-w-48-cm-mb5012022": {
-"code": 200,
-"op": "2026-11-13T11:06:23+00:00"
-},
 "/nl/inzethaard-max-blank-ke-1-okofire-am-montageframe-h-89-5-x-b-48-cm-mb5012021": {
 "code": 200,
 "op": "2026-11-13T11:06:23+00:00"
@@ -97799,18 +98099,6 @@
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/nl/houtkachel-max-blank-lille-iv-staal-mb1372021": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-max-blank-lille-iv-acier-mb1372021": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-lille-iv-steel-wood-stove-mb1372021": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
 "/nl/houtkachel-max-blank-lille-iv-natuursteen-zwart-lederstructuur-mb1372036": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
@@ -97823,54 +98111,6 @@
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/nl/houtkachel-max-blank-lille-iv-natuursteen-creme-glad-mb1372030": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-max-blank-lille-iv-pierre-naturelle-creme-lisse-mb1372030": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-lille-iv-natural-stone-wood-stove-cream-smooth-mb1372030": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/houtkachel-max-blank-lille-iv-keramiek-kersrood-mb1372046": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-max-blank-lille-iv-ceramique-rouge-cerise-mb1372046": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-lille-iv-ceramic-wood-stove-cherry-red-mb1372046": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/houtkachel-max-blank-lille-iv-keramiek-antraciet-mb1372049": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-max-blank-lille-iv-ceramique-anthracite-mb1372049": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-lille-iv-ceramic-wood-stove-anthracite-mb1372049": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/houtkachel-max-blank-lille-iv-keramiek-kobaltblauw-mb1372040": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-max-blank-lille-iv-ceramique-bleu-cobalt-mb1372040": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-lille-iv-ceramic-wood-stove-cobalt-blue-mb1372040": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
 "/nl/houtkachel-met-warmhoudvak-max-blank-toulouse-wf-natuursteen-lichtgrijs-gestraald-rookgas-achter-mb1192053": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
@@ -97880,54 +98120,6 @@
 "op": "2026-11-12T11:23:18+00:00"
 },
 "/en/max-blank-toulouse-wf-natural-stone-wood-stove-with-warming-compartment-light-grey-blasted-rear-flue-mb1192053": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/houtkachel-met-warmhoudvak-max-blank-toulouse-wf-natuursteen-grijs-gebeiteld-rookgas-boven-mb1192009": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-avec-chauffe-plats-max-blank-toulouse-wf-pierre-naturelle-grise-bouchardee-sortie-dessus-mb1192009": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-toulouse-wf-natural-stone-wood-stove-with-warming-compartment-grey-chiselled-top-flue-mb1192009": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/houtkachel-met-warmhoudvak-max-blank-toulouse-wf-natuursteen-grijs-gebeiteld-rookgas-achter-mb1192012": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-avec-chauffe-plats-max-blank-toulouse-wf-pierre-naturelle-grise-bouchardee-sortie-arriere-mb1192012": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-toulouse-wf-natural-stone-wood-stove-with-warming-compartment-grey-chiselled-rear-flue-mb1192012": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/houtkachel-met-warmhoudvak-max-blank-toulouse-wf-natuursteen-zwart-glad-rookgas-boven-mb1192056": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-avec-chauffe-plats-max-blank-toulouse-wf-pierre-naturelle-noire-lisse-sortie-dessus-mb1192056": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-toulouse-wf-natural-stone-wood-stove-with-warming-compartment-black-smooth-top-flue-mb1192056": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/houtkachel-met-warmhoudvak-max-blank-toulouse-wf-natuursteen-zwart-glad-rookgas-achter-mb1192059": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-avec-chauffe-plats-max-blank-toulouse-wf-pierre-naturelle-noire-lisse-sortie-arriere-mb1192059": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-toulouse-wf-natural-stone-wood-stove-with-warming-compartment-black-smooth-rear-flue-mb1192059": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
@@ -98051,90 +98243,6 @@
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/nl/accumulatiekachel-max-blank-turin-sp-natuursteen-lichtgrijs-gestraald-rookgas-achter-mb1582022": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-turin-sp-pierre-naturelle-gris-clair-sable-sortie-arriere-mb1582022": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-turin-sp-natural-stone-heat-storage-stove-light-grey-blasted-rear-flue-mb1582022": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-turin-sp-natuursteen-creme-glad-rookgas-boven-mb1582031": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-turin-sp-pierre-naturelle-creme-lisse-sortie-dessus-mb1582031": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-turin-sp-natural-stone-heat-storage-stove-cream-smooth-top-flue-mb1582031": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-turin-sp-staal-rookgas-achter-mb1582004": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-turin-sp-acier-sortie-arriere-mb1582004": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-turin-sp-steel-heat-storage-stove-rear-flue-mb1582004": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-turin-sp-natuursteen-creme-glad-rookgas-achter-mb1582034": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-turin-sp-pierre-naturelle-creme-lisse-sortie-arriere-mb1582034": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-turin-sp-natural-stone-heat-storage-stove-cream-smooth-rear-flue-mb1582034": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-turin-sp-staal-rookgas-boven-mb1582001": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-turin-sp-acier-sortie-dessus-mb1582001": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-turin-sp-steel-heat-storage-stove-top-flue-mb1582001": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-turin-sp-natuursteen-zwart-lederstructuur-rookgas-achter-mb1582028": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-turin-sp-pierre-naturelle-noire-aspect-cuir-sortie-arriere-mb1582028": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-turin-sp-natural-stone-heat-storage-stove-black-leather-texture-rear-flue-mb1582028": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/houtkachel-met-warmhoudvak-max-blank-rio-wf-keramiek-engels-groen-mb1862137": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-avec-chauffe-plats-max-blank-rio-wf-ceramique-vert-anglais-mb1862137": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-rio-wf-ceramic-wood-stove-with-warming-compartment-english-green-mb1862137": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
 "/nl/houtkachel-met-warmhoudvak-max-blank-rio-wf-keramiek-antraciet-fijn-geribd-mb1862131": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
@@ -98144,18 +98252,6 @@
 "op": "2026-11-12T11:23:18+00:00"
 },
 "/en/max-blank-rio-wf-ceramic-wood-stove-with-warming-compartment-anthracite-fine-ribbed-mb1862131": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/houtkachel-met-warmhoudvak-max-blank-rio-wf-keramiek-kersrood-mb1862119": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-avec-chauffe-plats-max-blank-rio-wf-ceramique-rouge-cerise-mb1862119": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-rio-wf-ceramic-wood-stove-with-warming-compartment-cherry-red-mb1862119": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
@@ -98207,18 +98303,6 @@
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
-"/nl/houtkachel-met-warmhoudvak-max-blank-rio-wf-natuursteen-lichtgrijs-gestraald-mb1862019": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-avec-chauffe-plats-max-blank-rio-wf-pierre-naturelle-gris-clair-sable-mb1862019": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-rio-wf-natural-stone-wood-stove-with-warming-compartment-light-grey-blasted-mb1862019": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
 "/nl/houtkachel-met-warmhoudvak-max-blank-rio-wf-keramiek-chamois-mb1862101": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
@@ -98228,18 +98312,6 @@
 "op": "2026-11-12T11:23:18+00:00"
 },
 "/en/max-blank-rio-wf-ceramic-wood-stove-with-warming-compartment-chamois-mb1862101": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/houtkachel-met-warmhoudvak-max-blank-rio-wf-natuursteen-zwart-glad-mb1862025": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-bois-avec-chauffe-plats-max-blank-rio-wf-pierre-naturelle-noire-lisse-mb1862025": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-rio-wf-natural-stone-wood-stove-with-warming-compartment-black-smooth-mb1862025": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
@@ -98276,114 +98348,6 @@
 "op": "2026-11-12T11:23:18+00:00"
 },
 "/en/max-blank-rio-sp-natural-stone-heat-storage-stove-grey-chiselled-mb1822001": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-rio-sp-keramiek-antraciet-mb1822056": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-rio-sp-ceramique-anthracite-mb1822056": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-rio-sp-ceramic-heat-storage-stove-anthracite-mb1822056": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-rio-sp-keramiek-kersrood-mb1822049": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-rio-sp-ceramique-rouge-cerise-mb1822049": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-rio-sp-ceramic-heat-storage-stove-cherry-red-mb1822049": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-rio-sp-natuursteen-zandsteen-gewolkt-mb1822013": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-rio-sp-pierre-naturelle-gres-nuage-mb1822013": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-rio-sp-natural-stone-heat-storage-stove-clouded-sandstone-mb1822013": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-rio-sp-keramiek-antraciet-fijn-geribd-mb1822062": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-rio-sp-ceramique-anthracite-finement-rainure-mb1822062": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-rio-sp-ceramic-heat-storage-stove-anthracite-fine-ribbed-mb1822062": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-rio-sp-natuursteen-lichtgrijs-gestraald-mb1822019": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-rio-sp-pierre-naturelle-gris-clair-sable-mb1822019": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-rio-sp-natural-stone-heat-storage-stove-light-grey-blasted-mb1822019": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-rio-sp-keramiek-chamois-mb1822031": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-rio-sp-ceramique-chamois-mb1822031": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-rio-sp-ceramic-heat-storage-stove-chamois-mb1822031": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-rio-sp-natuursteen-zwart-glad-mb1822025": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-rio-sp-pierre-naturelle-noire-lisse-mb1822025": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-rio-sp-natural-stone-heat-storage-stove-black-smooth-mb1822025": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-rio-sp-keramiek-engels-groen-mb1822068": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-rio-sp-ceramique-vert-anglais-mb1822068": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-rio-sp-ceramic-heat-storage-stove-english-green-mb1822068": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/nl/accumulatiekachel-max-blank-rio-sp-natuursteen-creme-glad-mb1822007": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/fr/poele-a-accumulation-max-blank-rio-sp-pierre-naturelle-creme-lisse-mb1822007": {
-"code": 200,
-"op": "2026-11-12T11:23:18+00:00"
-},
-"/en/max-blank-rio-sp-natural-stone-heat-storage-stove-cream-smooth-mb1822007": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
@@ -98879,6 +98843,18 @@
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
+"/nl/houtkachel-max-blank-bonn-keramiek-chamois-mb1562007": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-max-blank-bonn-ceramique-chamois-mb1562007": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-bonn-ceramic-wood-stove-chamois-mb1562007": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
 "/nl/houtkachel-max-blank-bonn-keramiek-antraciet-mb1562013": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
@@ -98912,6 +98888,18 @@
 "op": "2026-11-12T11:23:18+00:00"
 },
 "/en/max-blank-bonn-ceramic-wood-stove-cobalt-blue-mb1562004": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-max-blank-bonn-keramiek-kersrood-mb1562010": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-max-blank-bonn-ceramique-rouge-cerise-mb1562010": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-bonn-ceramic-wood-stove-cherry-red-mb1562010": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
@@ -99140,6 +99128,18 @@
 "op": "2026-11-12T11:23:18+00:00"
 },
 "/en/max-blank-turin-s-steel-wood-stove-rear-flue-mb1572004": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/nl/houtkachel-max-blank-turin-s-natuursteen-lichtgrijs-gestraald-rookgas-boven-mb1572019": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/fr/poele-a-bois-max-blank-turin-s-pierre-naturelle-gris-clair-sable-sortie-dessus-mb1572019": {
+"code": 200,
+"op": "2026-11-12T11:23:18+00:00"
+},
+"/en/max-blank-turin-s-natural-stone-wood-stove-light-grey-blasted-top-flue-mb1572019": {
 "code": 200,
 "op": "2026-11-12T11:23:18+00:00"
 },
